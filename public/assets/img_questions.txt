@@ -1,0 +1,10 @@
+﻿IMG|Which is the area formula of a circle?|rectangle|triangle|circle|square|circle
+IMG|Which of the units used is NOT an S.I. Unit?|celsius|metre|kilogram|second|celsius
+IMG|Which of these quantities is a scalar?|velocity|force|mass|acceleration|mass
+IMG|Which programming language is mainly used for web development?|python|c++|javascript|assembly|javascript
+IMG|Which of the following is NOT a type of energy?|kinetic|thermal|elastic|speed|speed
+MH|shape to its formula|rectangle|circle|square|triangle|shape_a|shape_b|shape_c|shape_d
+MH|SI unit to its quantity|length|time|current|temperature|metre_a|second_b|ampere_c|kelvin_d
+MH|physics symbol to its meaning|velocity|acceleration|force|time|v_a|a_b|F_c|s_d
+MH|math formula to its name|abc|Emc|Fma|Apir2|pythagoras_a|mass_energy_b|newton2_c|circle_area_d
+MH|logic gate to its symbol|AND|OR|NOT|XOR|logic_and_a|logic_or_b|logic_not_c|logic_xor_d

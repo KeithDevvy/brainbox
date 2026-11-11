@@ -1,0 +1,818 @@
+﻿IMG|Which is the area formula of a circle?|rectangle|triangle|circle|square|circle
+IMG|Which of the units used is NOT an S.I. Unit?|celsius|metre|kilogram|second|celsius
+IMG|Which of these quantities is a scalar?|velocity|force|mass|acceleration|mass
+IMG|Which programming language is mainly used for web development?|python|c++|javascript|assembly|javascript
+IMG|Which of the following is NOT a type of energy?|kinetic|thermal|elastic|speed|speed
+MH|shape to its formula|rectangle|circle|square|triangle|shape_a|shape_b|shape_c|shape_d
+MH|SI unit to its quantity|length|time|current|temperature|metre_a|second_b|ampere_c|kelvin_d
+MH|physics symbol to its meaning|velocity|acceleration|force|time|v_a|a_b|F_c|s_d
+MH|math formula to its name|abc|Emc|Fma|Apir2|pythagoras_a|mass_energy_b|newton2_c|circle_area_d
+MH|logic gate to its symbol|AND|OR|NOT|XOR|logic_and_a|logic_or_b|logic_not_c|logic_xor_d
+
+MC|What is the derivative of x^3?|3x^2|x^2|3x|a
+MC|If a car accelerates from 0 to 20 m/s in 10 seconds, what is its acceleration?|2 m/s^2|0.5 m/s^2|10 m/s^2|a
+MC|Which of the following sorting algorithms has O(n^2) worst-case complexity?|quick sort|bubble sort|heap sort|c
+MC|What is the integral of 2x dx?|x^2 + c|2x^2 + c|x + c|a
+MC|Which of these is NOT an object-oriented programming language?|java|c|python|b
+MC|If an object falls freely, what is its velocity after 3 seconds? (g = 9.8 m/s^2)|29.4 m/s|9.8 m/s|19.6 m/s|a
+MC|Which of the following is a stable sorting algorithm?|merge sort|quick sort|selection sort|a
+MC|What is the value of sin(90°)?|1|0|√2/2|a
+MC|Which of these is a compiled language?|c|python|javascript|a
+MC|Which of the following is an example of a recursive function?|factorial|for loop|while loop|a
+MC|What is the sum of the first 50 natural numbers?|1275|1225|1300|a
+MC|Which of these is a low-level programming language?|assembly|python|html|a
+MC|What is the formula for kinetic energy?|1/2 mv^2|mv|mgh|a
+MC|Which data structure uses LIFO?|stack|queue|array|a
+MC|Which of the following is true about a static method in Java?|Cannot access instance variables|Can access instance variables|Must return void|a
+MC|What is the next prime number after 17?|19|18|21|a
+MC|Which of the following is a linear data structure?|array|tree|graph|a
+MC|The period of a pendulum depends on which of the following?|length|mass|amplitude|a
+MC|Which keyword is used to create a class in Python?|class|def|struct|a
+MC|What is the determinant of a 2x2 matrix [[a, b], [c, d]]?|ad - bc|ab - cd|a+d|a
+MC|Which of these is NOT a valid variable name in C++?|2ndVar|var2|myVar|a
+MC|Which of the following is true for an object in uniform circular motion?|Acceleration is towards the center|Velocity is zero|Acceleration is tangential|a
+MC|Which of the following is a dynamic programming problem?|Fibonacci number|Binary search|Bubble sort|a
+MC|Which of these is a mutable data type in Python?|list|tuple|string|a
+MC|If a = 5 and b = 3, what is the value of a % b?|2|1|0|a
+MC|What is the acceleration of a free-falling object near Earth?|9.8 m/s^2|10 m/s|9.8 N|a
+MC|Which of these is NOT a valid access modifier in Java?|protected|public|secure|d
+MC|What is the value of log10(1000)?|3|2|10|a
+MC|Which data structure is best suited for implementing recursion?|stack|queue|linked list|a
+MC|Which of the following is true for Ohm’s Law?|V = IR|V = I/R|V = I+R|a
+MC|Which of these is a Python loop control statement?|break|continue|All of the above|d
+MC|Which is true about abstract classes in Java?|Cannot be instantiated|Can be instantiated|Same as interfaces|a
+MC|Which is a two-dimensional array representation?|matrix|stack|queue|a
+MC|Which of these is an example of divide and conquer?|merge sort|bubble sort|linear search|a
+MC|What is the escape velocity on Earth?|11.2 km/s|3 km/s|8 km/s|a
+MC|Which of these is true about pointers in C++?|Store memory addresses|Store values directly|Cannot be NULL|a
+MC|Which is an immutable Python data type?|tuple|list|dictionary|a
+MC|Which is NOT a characteristic of OOP?|Inheritance|Polymorphism|Goto statement|d
+MC|Which is a method to find roots of a quadratic?|quadratic formula|integration|looping|a
+MC|Which is true for resistors in series?|Total resistance = sum of resistances|Reciprocal sum|Product|a
+MC|Which operator has highest precedence in C++?|()|+|==|a
+MC|Which is used to find size of array in C++?|sizeof|length|size|a
+MC|Which is a floating point type in C++?|float|int|bool|a
+MC|Which law relates force, mass, acceleration?|Newton’s second law|Newton’s first law|Law of gravitation|a
+MC|Which is used to handle exceptions in Java?|try-catch|if-else|switch|a
+MC|Which is correct syntax to declare pointer in C++?|int ptr;|int ptr*;|int &ptr;|a
+MC|Which is correct Python dictionary declaration?|myDict = {'a':1, 'b':2}|myDict = [1,2]|myDict = (1,2)|a
+MC|Which is true about a capacitor in DC?|Acts as open circuit|Acts as short circuit|Current = 0|a
+MC|Which is NOT a primitive type in Java?|String|int|char|a
+MC|Which is true about binary search?|Requires sorted array|Works on unsorted array|O(n^2)|a
+MC|Which is best for implementing priority queue?|heap|stack|array|a
+MC|What is 12 × 12?|144|124|154|a
+MC|What is 2^5?|32|25|64|a
+MC|Which is a Python data type?|list|table|graph|a
+MC|Which gas is essential for respiration?|oxygen|carbon dioxide|hydrogen|a
+MC|Derivative of x^2 + 5x?|2x + 5|x + 5|2x|a
+MC|Which of these is a compiled language?|c|python|ruby|a
+MC|What is gravitational acceleration?|9.8 m/s^2|10 m/s|12 m/s^2|a
+MC|Which DS follows FIFO?|queue|stack|tree|a
+MC|Which is true for Ohm’s law?|V = IR|V = I/R|V = R/I|a
+MC|Modulus operator in C++?|%|/||a
+MC|Value of cos(0°)?|1|0|√2/2|a
+MC|Immutable Python type?|tuple|list|set|a
+MC|NOT valid Java identifier?|2ndVar|myVar|var_2|a
+MC|Example of recursion?|factorial|for loop|if statement|a
+MC|Area of a circle?|πr^2|2πr|πr|a
+MC|Static method in Java?|Cannot access instance variables|Can access instance variables|Must return void|a
+MC|Floating point in C++?|float|int|char|a
+MC|Low-level language?|assembly|python|java|a
+MC|Next prime after 29?|31|30|33|a
+MC|Stable sorting algorithm?|merge sort|quick sort|heap sort|a
+MC|Exception handling in Java?|try-catch|if-else|switch|a
+MC|About abstract classes?|Cannot be instantiated|Can be instantiated|Same as interface|a
+MC|Correct pointer declaration?|int ptr;|int ptr*;|int &ptr;|a
+MC|Uniform circular motion?|Acceleration towards center|Velocity zero|Acceleration tangential|a
+MC|Recursive sequence?|Fibonacci|Arithmetic|Geometric|a
+MC|Highest precedence operator?|()|+|==|a
+MC|Resistors in series?|Total resistance = sum|Reciprocal sum|Product|a
+MC|Python loop control?|break|continue|All of the above|d
+MC|Valid C++ array declaration?|int arr[5];|int arr();|array arr[5];|a
+MC|Size of array in C++?|sizeof|length|size|a
+MC|Capacitor in DC?|Acts as open circuit|Acts as short|Voltage = 0|a
+MC|Binary search?|Requires sorted array|Works unsorted|O(n^2)|a
+MC|Quadratic solving method?|quadratic formula|integration|differentiation|a
+MC|Python dictionary?|{'a':1, 'b':2}|[1,2]|(1,2)|a
+MC|Stack?|LIFO|FIFO|Random|a
+MC|Divide & conquer?|merge sort|bubble sort|insertion sort|a
+MC|Resistors in parallel?|1/Rtotal = sum(1/R)|Sum(R)|Voltage = 0|a
+MC|Newton’s second law?|F = ma|F = mv|F = mg|a
+MC|Graph traversal?|DFS|Bubble sort|Linear search|a
+MC|Stores memory addresses?|pointer|variable|function|a
+MC|Capacitor in AC?|Offers reactance|Open circuit|No effect|a
+MC|Abstract methods in Java?|Must be overridden|Can be called directly|Optional|a
+MC|Recursive programming problem?|Tower of Hanoi|Binary search|Bubble sort|a
+MC|Ohm’s law in series?|V = IR|I = V/R|V = I+R|a
+MC|Measure current?|ammeter|voltmeter|ohmmeter|a
+MC|Constant acceleration formula?|v = u + at|v = u|a = 0|a
+MC|Correct C++ pointer?|int ptr;|int ptr*;|int &ptr;|a
+MC|Correct Python class declaration?|class MyClass:|def MyClass:|class MyClass()|a
+MC|Inheritance in OOP?|Subclass inherits from superclass|Superclass inherits|Only private members inherited|a
+MC|Python function?|Can return a value|Cannot return|Must return|a
+MC|Queue?|FIFO|LIFO|Random|a
+MC|Primitive Java type?|int|String|Class|a
+MC|Speed vs velocity?|Velocity has direction|Speed has direction|Speed is vector|a
+MC|Newton’s third law?|Action = -Reaction|F = ma|F = mg|a
+MC|Merge sort?|Divide and conquer|Linear time|Unstable|a
+MC|Binary tree?|At most 2 children|Exactly 3|4 children|a
+MC|Quadratic roots?|quadratic formula|integration|factorial|a
+MC|Parallel resistors?|1/Rtotal = sum(1/R)|Sum(R)|Voltage = 0|a
+MC|Capacitor in series DC?|Acts as open circuit|Acts as short|Current = 0|a
+MC|Polymorphism?|Same interface, different implementation|Different interface same implementation|Cannot be achieved in C++|a
+MC|Python data type?|list|graph|queue|a
+MC|Measure voltage?|voltmeter|ammeter|wattmeter|a
+MC|Vector quantity?|Has magnitude and direction|Magnitude only|Direction only|a
+MC|Kinetic energy?|1/2 mv^2|mgh|mv|a
+MC|Recursion?|Function calls itself|Calls another function|Cannot return value|a
+MC|While loop?|Executes while condition true|Executes once always|Executes randomly|a
+MC|Stack in programming?|LIFO|FIFO|Random|a
+MC|Velocity in uniform motion?|Constant magnitude and direction|Constant magnitude|Variable magnitude|a
+MC|Formula for work?|W = F × d|W = 1/2 mv^2|W = P × t|a
+MC|Linear search?|Checks elements sequentially|Checks half|Always fastest|a
+
+TF|The square root of 144 is 12.|t  
+TF|Python is a statically typed language.|f  
+TF|The acceleration due to gravity on Earth is approximately 9.8 m/s^2.|t  
+TF|In C++, the ‘int’ data type can store decimal values.|f  
+TF|Newton’s first law states that an object in motion stays in motion unless acted upon by a force.|t  
+TF|The integral of x dx is x^2 + c.|f  
+TF|In Python, tuples are mutable.|f  
+TF|The sum of angles in a triangle is 180 degrees.|t  
+TF|A stack follows First-In-First-Out (FIFO) order.|f  
+TF|In a uniform circular motion, acceleration is directed towards the center.|t  
+TF|Merge sort is a divide and conquer algorithm.|t  
+TF|C++ does not support object-oriented programming.|f  
+TF|Velocity is a scalar quantity.|f  
+TF|The derivative of a constant is zero.|t  
+TF|A Python dictionary stores key-value pairs.|t  
+TF|The formula for kinetic energy is KE = 1/2 mv^2.|t  
+TF|In a series circuit, total resistance is equal to the sum of individual resistances.|t  
+TF|Bubble sort has a worst-case time complexity of O(n^2).|t  
+TF|An abstract class in Java can be instantiated directly.|f  
+TF|The modulus operator (%) returns the remainder of a division.|t  
+TF|The determinant of a 2x2 matrix [[a, b], [c, d]] is ad + bc.|f  
+TF|A pointer in C++ stores the address of a variable.|t  
+TF|Binary search works on unsorted arrays.|f  
+TF|The sun is a source of light and heat.|t  
+TF|The first 10 natural numbers sum to 55.|t  
+TF|In Python, the ‘break’ statement can exit a loop prematurely.|t  
+TF|In C++, the ‘void’ keyword is used to declare functions with no return value.|t  
+TF|Acceleration is defined as the rate of change of velocity with time.|t  
+TF|Electric current is measured in volts.|f  
+TF|The Fibonacci sequence is an example of a recursive problem.|t  
+TF|Ohm’s Law is V = I × R.|t  
+TF|A capacitor acts as a short circuit in DC steady state.|f  
+TF|In Python, ‘list’ is an immutable data type.|f  
+TF|A tree data structure is a type of linear data structure.|f  
+TF|In uniform motion, speed remains constant.|t  
+TF|A queue follows Last-In-First-Out (LIFO) order.|f  
+TF|In a parallel circuit, voltage across each resistor is the same.|t  
+TF|Polymorphism allows objects to take multiple forms in OOP.|t  
+TF|Python supports multiple inheritance.|t  
+TF|The speed of light in vacuum is approximately 3 × 10^8 m/s.|t  
+TF|A vector quantity has only magnitude.|f  
+TF|In Java, the ‘final’ keyword prevents inheritance.|t  
+TF|The area of a circle is πr^2.|t  
+TF|Binary trees can have any number of children per node.|f  
+TF|Heap sort is an in-place sorting algorithm.|t  
+TF|Acceleration due to gravity is the same on all planets.|f  
+TF|In Python, indentation is optional.|f  
+TF|A while loop executes as long as its condition is true.|t  
+TF|The Newton-Raphson method is used to solve linear equations.|f  
+TF|In C++, the ‘new’ keyword is used to dynamically allocate memory.|t  
+TF|The sum of internal angles of a quadrilateral is 360 degrees.|t  
+TF|Stack memory allocation follows LIFO order.|t  
+TF|A capacitor blocks AC current in a circuit.|f  
+TF|Python supports both procedural and object-oriented programming.|t  
+TF|The tangent of 45 degrees is 1.|t  
+TF|In Python, variables must be declared with a type.|f  
+TF|A resistor in series reduces the total current in the circuit.|t  
+TF|A function that calls itself is called recursive.|t  
+TF|The decimal system is base 10.|t  
+TF|The law of conservation of energy states energy cannot be created or destroyed.|t  
+TF|A class in Java can implement multiple interfaces.|t  
+TF|The Pythagorean theorem applies to all triangles.|f  
+TF|A for loop in Python always runs infinitely.|f  
+TF|In C++, ‘cout’ is used to print output to the console.|t  
+TF|In Python, ‘def’ keyword is used to define a function.|t  
+TF|A leaf node in a tree has at least one child.|f  
+TF|The derivative of sin(x) is cos(x).|t  
+TF|Binary search has O(log n) complexity.|t  
+TF|The electric field is measured in amperes.|f  
+TF|In Python, sets store unique elements only.|t  
+TF|The circumference of a circle is 2πr.|t  
+TF|In C++, references can be reassigned to another variable.|f  
+TF|Velocity is a vector quantity.|t  
+TF|The sum of angles in a pentagon is 540 degrees.|t  
+TF|In physics, work is defined as force multiplied by distance in the direction of force.|t  
+TF|The square root of 49 is 8.|f  
+TF|Recursion always requires a base case.|t  
+TF|In Python, the ‘continue’ statement skips the rest of the current loop iteration.|t  
+TF|The area of a rectangle is length × width.|t  
+TF|A linked list is a type of dynamic data structure.|t  
+TF|Current is measured in amperes.|t  
+TF|C++ supports operator overloading.|t  
+TF|Power is defined as work done per unit time.|t  
+TF|The sum of 1 + 2 + … + 100 is 5050.|t  
+TF|The derivative of e^x is e^x.|t  
+TF|Python dictionaries cannot have duplicate keys.|t  
+TF|The sum of the internal angles of a hexagon is 720 degrees.|t  
+TF|The gravitational force between two objects depends on their masses and distance.|t  
+TF|An object in equilibrium has net force zero.|t  
+TF|In Java, all methods must have a return type.|f  
+TF|The binary number 1010 equals decimal 10.|t  
+TF|A bubble sort algorithm is faster than quicksort for large datasets.|f  
+TF|In Python, the ‘pass’ statement does nothing.|t  
+TF|The derivative of ln(x) is 1/x.|t  
+TF|The SI unit of energy is the joule.|t  
+TF|Python uses zero-based indexing.|t  
+TF|The tangent of 0° is 0.|t  
+TF|A class in Java can extend multiple classes.|f  
+TF|Resistors in parallel reduce total resistance.|t  
+TF|Acceleration is a scalar quantity.|f  
+TF|The integral of 1/x dx is ln|x| + c.|t  
+TF|A pointer can point to any memory location in C++.|t  
+TF|The sum of first n natural numbers is n(n+1)/2.|t  
+TF|Newton’s third law states that every action has an equal and opposite reaction.|t  
+TF|In Python, lists can store elements of different types.|t  
+TF|A queue follows LIFO order.|f  
+TF|The voltage across resistors in series is the same.|f  
+TF|Current is the rate of flow of charge.|t  
+TF|The distance formula in 2D is √((x2-x1)^2 + (y2-y1)^2).|t  
+TF|In Python, 'and' is a logical operator.|t  
+TF|The modulus operator in C++ returns the quotient of division.|f  
+TF|In Java, the ‘super’ keyword refers to the parent class.|t  
+TF|The Pythagorean theorem is a^2 + b^2 = c^2 for right-angled triangles.|t  
+TF|In physics, velocity and speed are always the same.|f  
+TF|Python supports both ‘for’ and ‘while’ loops.|t  
+TF|A capacitor stores energy in an electric field.|t  
+TF|The surface area of a cube is 6 × side^2.|t  
+TF|In C++, 'int' can store decimal numbers.|f  
+TF|The law of reflection states angle of incidence equals angle of reflection.|t  
+TF|Recursion can always be replaced by iteration.|t  
+TF|The area of a triangle is 1/2 × base × height.|t  
+TF|Python’s ‘set’ type is ordered.|f  
+TF|In C++, 'switch' statements can have string cases.|f  
+TF|Binary search requires O(log n) comparisons in the worst case.|t  
+TF|Energy can be converted from one form to another.|t  
+TF|In a tree, root node has no parent.|t  
+TF|Python functions can return multiple values.|t  
+TF|The slope of a horizontal line is zero.|t  
+TF|Acceleration due to gravity is constant near Earth’s surface.|t  
+TF|The cube of 3 is 27.|t  
+TF|In C++, the 'const' keyword prevents modification of a variable.|t  
+TF|A prime number has exactly two factors.|t  
+TF|The derivative of cos(x) is -sin(x).|t  
+TF|In Python, 'elif' is used for else-if condition.|t  
+TF|The SI unit of force is the newton.|t  
+TF|The sum of 5 + 10 + 15 + ... + 50 is 275.|t  
+TF|The circumference of a circle is π × diameter.|t  
+TF|Velocity includes speed and direction.|t  
+TF|Python uses indentation to define blocks of code.|t  
+TF|The integral of cos(x) dx is sin(x) + c.|t  
+TF|Stack uses LIFO order.|t  
+TF|Resistors in series have the same current.|t  
+TF|The formula for work is W = F × d.|t  
+TF|The SI unit of power is the watt.|t  
+TF|The distance between points (0,0) and (3,4) is 5.|t  
+TF|In Python, 'or' is a logical operator.|t  
+TF|A class can contain both methods and attributes.|t  
+TF|In physics, weight is a force.|t  
+TF|The modulus of -7 % 3 in C++ is 2.|t  
+TF|Velocity is a vector quantity.|t  
+TF|The area of a square with side s is s^2.|t  
+TF|In Python, variables can change type dynamically.|t  
+TF|Newton’s first law is also called the law of inertia.|t  
+TF|A binary tree can have zero, one, or two children per node.|t  
+TF|The derivative of x^n is n × x^(n-1).|t  
+TF|Python supports both positional and keyword arguments.|t  
+TF|A resistor does not store energy.|t  
+TF|Python's 'range(5)' produces 0,1,2,3,4.|t  
+TF|The derivative of tan(x) is sec^2(x).|t  
+TF|The SI unit of electric charge is coulomb.|t  
+TF|In physics, displacement is a vector quantity.|t  
+TF|The sum of internal angles of a triangle is always 180°.|t  
+TF|In Python, lists are mutable.|t  
+TF|The Newton-Raphson method is used to find roots of equations.|t  
+TF|In C++, arrays have fixed size.|t  
+TF|The escape velocity from Earth is approximately 11.2 km/s.|t  
+TF|Work done can be negative.|t  
+TF|The tangent of 45° is 1.|t  
+TF|Ohm’s law applies to all materials.|f  
+TF|A leap year has 366 days.|t  
+TF|In Python, '==' checks for equality.|t  
+TF|In Java, all methods in an interface are abstract by default.|t  
+TF|The SI unit of frequency is hertz.|t  
+TF|The hypotenuse is the longest side in a right triangle.|t  
+TF|A capacitor stores energy in an electric field.|t  
+TF|In a closed system, total energy remains constant.|t  
+TF|Python supports object-oriented programming.|t  
+TF|An obtuse angle is greater than 90° but less than 180°.|t  
+TF|The cube root of 27 is 3.|t  
+TF|In Python, 'is' checks identity, not equality.|t  
+TF|Binary search requires a sorted array.|t  
+TF|The speed of sound is slower than the speed of light.|t  
+TF|The SI unit of temperature is kelvin.|t  
+TF|In C++, 'break' exits the current loop.|t  
+TF|Euler’s formula relates e^(iθ) to cos(θ) + i sin(θ).|t  
+TF|The sum of 1/2 + 1/4 + 1/8 + ... converges.|t  
+TF|Python supports multiple inheritance.|t  
+TF|The area of a parallelogram is base × height.|t  
+TF|An object moving with constant speed in a circle has acceleration.|t  
+TF|A function can call itself in recursion.|t  
+TF|In Python, 'pass' does nothing.|t  
+TF|The derivative of a sum is the sum of derivatives.|t  
+TF|In C++, the ternary operator is written as ? :.|t  
+TF|The SI unit of pressure is pascal.|t  
+TF|A square is a type of rectangle.|t  
+TF|The distance formula in 3D is √((x2-x1)^2 + (y2-y1)^2 + (z2-z1)^2).|t  
+TF|Voltage is the energy per unit charge.|t  
+TF|In Python, ‘len()’ returns the number of elements.|t  
+TF|The SI unit of magnetic flux is weber.|t  
+TF|The sum of even numbers from 2 to 100 is 2550.|t  
+TF|The derivative of x is 1.|t  
+TF|In physics, momentum is mass × velocity.|t  
+TF|Python's 'append()' method adds an element to a list.|t  
+TF|A complete graph has edges connecting every pair of vertices.|t  
+TF|The angle in radians for 180° is π.|t  
+TF|Current flows from higher potential to lower potential in a conductor.|t  
+TF|Python allows negative indexing in lists.|t  
+TF|The area of a circle = π × r^2.|t  
+TF|In a parallel plate capacitor, energy is stored in the electric field.|t  
+TF|Acceleration is a vector quantity.|t  
+TF|The derivative of e^(2x) is 2e^(2x).|t  
+TF|The SI unit of electric resistance is ohm.|t  
+TF|The sum of first n odd numbers = n^2.|t  
+TF|The net force on an object at rest is zero.|t  
+TF|Python supports dynamic typing.|t  
+TF|The derivative of ln(x) is 1/x.|t  
+TF|Python's 'range()' is inclusive of the start but exclusive of the stop.|t  
+TF|The sum of internal angles of a hexagon is 720°.|t  
+TF|A right-angled triangle has one 90° angle.|t  
+TF|Voltage × Current = Power.|t  
+TF|The SI unit of energy is joule.|t  
+TF|Python functions can return values.|t  
+TF|Binary trees have a maximum of two children per node.|t  
+TF|The tangent of 0° is 0.|t  
+TF|A resistor limits the current in a circuit.|t  
+TF|The Newton-Raphson method is iterative.|t  
+TF|The cube of 4 is 64.|t  
+TF|A capacitor blocks DC current in steady state.|t  
+TF|The slope of a vertical line is undefined.|t  
+TF|Python supports both integers and floats.|t  
+TF|Euler’s number e ≈ 2.718.|t  
+TF|In Python, 'del' can remove a variable.|t  
+TF|The area of a trapezium = 1/2 × (sum of parallel sides) × height.|t  
+TF|Newton’s laws apply in inertial frames of reference.|t  
+TF|Python dictionaries are unordered (pre 3.7).|t  
+TF|The perimeter of a rectangle = 2 × (length + width).|t  
+TF|The SI unit of time is second.|t  
+TF|Binary numbers use only digits 0 and 1.|t  
+TF|Python uses '#' for comments.|t  
+TF|A leaf node has no children.|t  
+TF|A stack can be implemented using a linked list.|t  
+TF|Force = mass × acceleration.|t  
+TF|Python supports boolean types.|t  
+TF|The square of 5 is 25.|t  
+TF|Binary search halves the search space each step.|t  
+TF|Python’s 'pop()' removes the last element by default.|t  
+TF|In Java, 'extends' keyword is used for inheritance.|t  
+TF|The SI unit of frequency is hertz.|t  
+TF|A straight angle measures 180°.|t  
+TF|The sum of the digits of 12345 is 15.|t  
+TF|Python supports slicing of lists.|t  
+TF|Acceleration due to gravity on Moon is less than on Earth.|t  
+TF|In C++, 'struct' members are public by default.|t  
+TF|The derivative of a constant function is zero.|t  
+TF|Python lists can contain other lists.|t  
+TF|The sum of internal angles of an octagon is 1080°.|t  
+TF|Power = work / time.|t  
+TF|Python uses indentation instead of braces.|t  
+TF|The area of a triangle = 1/2 × base × height.|t  
+TF|Voltage = Current × Resistance.|t  
+TF|Python’s 'in' operator checks membership.|t  
+TF|A horizontal line has zero slope.|t  
+TF|The speed of light is faster than the speed of sound.|t  
+TF|Binary numbers can be converted to decimal.|t  
+TF|Python’s 'range(5)' produces numbers 0 through 4.|t  
+TF|C++ 'new' operator allocates memory dynamically.|t  
+TF|A leap year occurs every 4 years.|t  
+TF|In Python, 'not' negates a boolean expression.|t  
+TF|Newton’s second law defines force as F = ma.|t  
+TF|The tangent of 90° is undefined.|t  
+TF|A parallelogram with equal sides is a rhombus.|t  
+TF|Python supports integer division using '//' operator.|t  
+TF|A prime number has only two factors.|t  
+TF|The square root of 64 is 8.|t  
+TF|The sum of 1 + 2 + 3 + … + n = n(n+1)/2.|t  
+TF|Python allows chaining comparison operators like 1 < x < 10.|t  
+TF|The speed of an object = distance / time.|t  
+TF|The derivative of x^3 is 3x^2.|t  
+TF|The SI unit of force is newton.|t  
+TF|Python strings are immutable.|t  
+TF|In Python, 'elif' is used for else-if condition.|t  
+TF|Resistors in parallel have total resistance less than any individual resistor.|t  
+TF|The distance between (0,0) and (6,8) is 10.|t  
+TF|The area of a circle = π × r^2.|t  
+TF|Python allows negative indexing of lists.|t  
+TF|Euler’s formula: e^(iθ) = cosθ + i sinθ.|t  
+TF|In Python, 'type()' returns the data type of a variable.|t  
+TF|A right-angled triangle has one angle of 90°.|t  
+TF|The SI unit of energy is joule.|t  
+TF|Python supports dynamic typing.|t  
+TF|Current = charge / time.|t  
+TF|A decimal number can be converted to binary.|t  
+TF|The area of a square = side × side.|t  
+TF|In Python, 'len()' gives the number of elements.|t  
+TF|Velocity = displacement / time.|t  
+TF|Python functions can accept default arguments.|t  
+TF|A binary tree node can have at most two children.|t  
+TF|The derivative of ln(x) is 1/x.|t  
+TF|The perimeter of a rectangle = 2 × (length + width).|t  
+TF|Python supports logical operators 'and', 'or', 'not'.|t  
+TF|The cube root of 27 is 3.|t  
+TF|Newton’s third law: every action has equal and opposite reaction.|t  
+TF|Acceleration = change in velocity / time.|t  
+TF|The sum of internal angles in a triangle = 180°.|t  
+TF|Python supports lists, tuples, sets, and dictionaries.|t  
+TF|The hypotenuse is the longest side of a right-angled triangle.|t  
+TF|The sum of 1 + 3 + 5 + … + 99 = 2500.|t  
+TF|The circumference of a circle = 2πr.|t  
+TF|Python supports object-oriented programming.|t  
+TF|Binary search requires a sorted array.|t  
+TF|Voltage = current × resistance.|t  
+TF|The slope of a horizontal line = 0.|t  
+TF|The SI unit of time is second.|t  
+TF|Python lists are mutable.|t  
+TF|Euler’s number e ≈ 2.718.|t  
+TF|Python’s 'pop()' removes an element from a list.|t  
+TF|The derivative of sin(x) is cos(x).|t  
+TF|The SI unit of frequency is hertz.|t  
+TF|The area of a parallelogram = base × height.|t  
+TF|A leap year has 366 days.|t  
+TF|Python supports multiple inheritance.|t  
+TF|The sum of angles in a quadrilateral = 360°.|t  
+TF|Python functions can return multiple values.|t  
+TF|The slope of a vertical line is undefined.|t  
+TF|A stack uses LIFO order.|t  
+TF|In C++, 'sizeof' gives the size of a variable.|t  
+TF|The derivative of e^x is e^x.|t  
+TF|Python uses zero-based indexing.|t  
+TF|The square of 9 is 81.|t  
+TF|In Python, 'is' checks object identity.|t  
+TF|In Python, 'range(5)' produces 0,1,2,3,4.|t  
+TF|A capacitor stores energy in an electric field.|t  
+TF|Work = force × displacement.|t  
+TF|Python allows negative indexing.|t  
+TF|The SI unit of pressure is pascal.|t  
+TF|Binary numbers use only 0 and 1.|t  
+TF|Python uses '#' for comments.|t  
+TF|Acceleration due to gravity is the same everywhere on Earth.|t  
+TF|Python supports slicing of lists.|t  
+TF|Current flows from high to low potential.|t  
+TF|The SI unit of electric charge is coulomb.|t  
+TF|The sum of first n odd numbers = n^2.|t  
+TF|In Python, 'append()' adds an element to the end of a list.|t  
+TF|The sum of the digits of 1234 is 10.|t  
+TF|Python dictionaries cannot have duplicate keys.|t  
+TF|Newton’s first law is the law of inertia.|t  
+TF|The tangent of 45° is 1.|t  
+TF|Python supports both integers and floats.|t  
+TF|Velocity = displacement / time.|t  
+TF|The SI unit of energy is joule.|t  
+TF|The area of a triangle = 1/2 × base × height.|t  
+TF|Python strings are immutable.|t  
+TF|Euler’s formula: e^(iθ) = cosθ + i sinθ.|t  
+TF|Binary search halves the search space each step.|t  
+TF|In Python, 'del' can remove a variable.|t  
+TF|The escape velocity from Earth ≈ 11.2 km/s.|t  
+TF|The sum of internal angles of a pentagon = 540°.|t  
+TF|Newton’s second law: F = ma.|t  
+TF|Python’s 'range()' is inclusive of start, exclusive of stop.|t  
+TF|Binary trees have max two children per node.|t  
+TF|Python supports logical operators 'and', 'or', 'not'.|t  
+TF|The derivative of tan(x) is sec^2(x).|t  
+TF|The SI unit of force is newton.|t  
+TF|Python supports dynamic typing.|t  
+TF|Voltage = current × resistance.|t  
+TF|Python functions can accept default arguments.|t  
+TF|The slope of a vertical line is undefined.|t  
+TF|The derivative of ln(x) is 1/x.|t  
+TF|Acceleration = change in velocity / time.|t  
+TF|Python lists can contain other lists.|t  
+TF|Binary numbers can be converted to decimal.|t  
+TF|The sum of internal angles of an octagon = 1080°.|t  
+TF|In Python, 'pass' does nothing.|t  
+TF|The cube of 3 is 27.|t  
+TF|Python supports both procedural and object-oriented programming.|t  
+
+TXT|What is the square root of 256?|16  
+TXT|What is 15 × 12?|180  
+TXT|What is the derivative of x^3?|3x^2  
+TXT|What is the integral of 2x dx?|x^2 + c  
+TXT|What is the value of sin(90 degrees)?|1  
+TXT|What is 2 to the power of 8?|256  
+TXT|What is the acceleration due to gravity on Earth?|9.8  
+TXT|What is the formula for kinetic energy?|1/2 mv^2  
+TXT|What is the first prime number greater than 50?|53  
+TXT|What is the sum of the first 20 natural numbers?|210  
+TXT|What is the area of a circle with radius r?|pi*r^2  
+TXT|What is the value of cos(0 degrees)?|1  
+TXT|What programming language uses indentation instead of braces?|python  
+TXT|What is the chemical symbol for water?|h2o  
+TXT|What is the formula for force in physics?|m*a  
+TXT|What is the value of 7 factorial (7!)?|5040  
+TXT|Which data structure follows Last-In-First-Out?|stack  
+TXT|Which data structure follows First-In-First-Out?|queue  
+TXT|What is the capital of France?|paris  
+TXT|Which gas is essential for respiration?|oxygen  
+TXT|What is the area of a triangle?|1/2*base*height  
+TXT|What is the value of 10 squared?|100  
+TXT|What is the cube of 4?|64  
+TXT|What is the derivative of sin(x)?|cos(x)  
+TXT|What is the derivative of cos(x)?|-sin(x)  
+TXT|What is the value of tan(45 degrees)?|1  
+TXT|What is the sum of angles in a triangle?|180  
+TXT|Which programming language is strongly typed and compiled?|c++  
+TXT|Which Python data type is immutable?|tuple  
+TXT|Which Python data type is mutable?|list  
+TXT|What is the formula for Ohm's law?|v=i*r  
+TXT|Which algorithm is divide and conquer: merge sort or bubble sort?|merge sort  
+TXT|Which language is primarily used for iOS development?|swift  
+TXT|Which language is primarily used for Android development?|java  
+TXT|What is the area of a rectangle?|length*width  
+TXT|What is the perimeter of a square?|4*side  
+TXT|What is the volume of a cube?|side^3  
+TXT|What is the formula for work?|force*distance  
+TXT|What is the SI unit of force?|newton  
+TXT|What is the SI unit of energy?|joule  
+TXT|What is the SI unit of electric current?|ampere  
+TXT|What is the SI unit of voltage?|volt  
+TXT|Which keyword in Python defines a function?|def  
+TXT|Which keyword in Java defines a class?|class  
+TXT|Which keyword in C++ is used to allocate memory dynamically?|new  
+TXT|Which Python function returns the length of a list?|len  
+TXT|Which symbol is used for comments in Python?|#  
+TXT|Which symbol is used for modulus in C++?|%  
+TXT|What is the binary representation of 10?|1010  
+TXT|What is the hexadecimal representation of 255?|ff  
+TXT|What is the octal representation of 8?|10  
+TXT|Which sorting algorithm has worst-case O(n^2) complexity?|bubble sort  
+TXT|Which sorting algorithm is stable and O(n log n) worst-case?|merge sort  
+TXT|Which data structure is used for recursion?|stack  
+TXT|Which method is used to remove an element from a Python list?|pop  
+TXT|Which method is used to add an element to a Python list?|append  
+TXT|What is the next prime number after 97?|101  
+TXT|What is the formula for gravitational force?|g*m1*m2/r^2  
+TXT|Which physical quantity is measured in joules?|energy  
+TXT|Which physical quantity is measured in watts?|power  
+TXT|What is the derivative of x^2?|2x  
+TXT|What is the integral of x dx?|1/2 x^2 + c  
+TXT|Which Python keyword handles exceptions?|try  
+TXT|Which Python keyword executes code if exception occurs?|except  
+TXT|Which operator in Python is for exponentiation?|**  
+TXT|Which operator in Python is for floor division?|//  
+TXT|Which Python function converts a string to integer?|int  
+TXT|Which Python function converts integer to string?|str  
+TXT|Which Python function converts string to float?|float  
+TXT|Which operator in C++ compares equality?|==  
+TXT|Which operator in C++ is used for assignment?|=  
+TXT|Which data structure stores key-value pairs?|dictionary  
+TXT|Which Python data type stores key-value pairs?|dict  
+TXT|Which Python data type stores unique elements?|set  
+TXT|Which Python data type preserves insertion order and allows duplicates?|list  
+TXT|Which algorithm is used to search in sorted arrays?|binary search  
+TXT|Which algorithm checks each element sequentially?|linear search  
+TXT|Which Python keyword exits a loop prematurely?|break  
+TXT|Which Python keyword skips the current iteration of a loop?|continue  
+TXT|Which Python keyword does nothing?|pass  
+TXT|Which Python keyword defines a class?|class  
+TXT|Which programming language is used for front-end web development?|javascript  
+TXT|Which programming language is used for back-end web development?|python  
+TXT|Which Python operator is logical AND?|and  
+TXT|Which Python operator is logical OR?|or  
+TXT|Which Python operator is logical NOT?|not  
+TXT|Which Python operator checks membership in a list?|in  
+TXT|Which Python operator checks non-membership in a list?|not in  
+TXT|Which language is used for SQL database queries?|sql  
+TXT|Which Python data type is a floating point number?|float  
+TXT|Which Python data type is an integer?|int  
+TXT|Which Python data type is a string?|str  
+TXT|Which programming language uses 'public', 'private', 'protected' access modifiers?|java  
+TXT|Which Python keyword declares a global variable?|global  
+TXT|Which physical quantity is mass multiplied by acceleration?|force  
+TXT|Which physical quantity is work divided by time?|power  
+TXT|Which SI unit is for electric resistance?|ohm  
+TXT|Which SI unit is for magnetic flux?|weber  
+TXT|Which SI unit is for temperature?|kelvin  
+TXT|Which SI unit is for luminous intensity?|candela  
+TXT|Which algorithm sorts by repeatedly swapping adjacent elements?|bubble sort  
+TXT|Which algorithm divides problem into smaller sub-problems?|merge sort  
+TXT|Which Python method removes last element from a list?|pop  
+TXT|Which Python method adds an element to the end of a list?|append  
+TXT|Which data structure is FIFO?|queue  
+TXT|Which data structure is LIFO?|stack  
+TXT|Which Python collection stores ordered elements?|list  
+TXT|Which Python collection stores unordered unique elements?|set  
+TXT|Which Python collection stores key-value pairs?|dict  
+TXT|Which C++ container stores elements in key-value pairs?|map  
+TXT|Which Python function rounds a number to the nearest integer?|round  
+TXT|Which Python function returns the absolute value of a number?|abs  
+TXT|Which Python function returns the largest value?|max  
+TXT|Which Python function returns the smallest value?|min  
+TXT|Which Python function converts an iterable to a list?|list  
+TXT|Which Python function converts an iterable to a tuple?|tuple  
+TXT|Which Python function converts an iterable to a set?|set  
+TXT|Which algorithm is efficient for searching a sorted list?|binary search  
+TXT|Which algorithm checks each element for a match?|linear search  
+TXT|Which Python keyword defines a function?|def  
+TXT|Which Python keyword raises an exception?|raise  
+TXT|Which Python keyword executes code if no exception occurs?|else  
+TXT|Which Python keyword executes code after try/except regardless of exceptions?|finally  
+TXT|Which Python keyword imports a module?|import  
+TXT|Which Python keyword removes a module from namespace?|del  
+TXT|Which Python keyword creates an infinite loop?|while True  
+TXT|Which Python keyword exits a function?|return  
+TXT|Which algorithm finds shortest path in a graph?|dijkstra  
+TXT|Which algorithm finds minimum spanning tree?|kruskal  
+TXT|Which Python function returns the index of an element in a list?|index  
+TXT|Which Python function counts occurrences of an element in a list?|count  
+TXT|Which Python function reverses a list in place?|reverse  
+TXT|Which Python function sorts a list in place?|sort  
+TXT|Which Python function returns a sorted copy of a list?|sorted  
+TXT|Which Python method converts string to lowercase?|lower  
+TXT|Which Python method converts string to uppercase?|upper  
+TXT|Which Python method removes whitespace from both ends of a string?|strip  
+TXT|Which Python method replaces substring in a string?|replace  
+TXT|Which Python method splits a string into a list?|split  
+TXT|Which Python method joins a list into a string?|join  
+TXT|Which Python keyword checks membership in a collection?|in  
+TXT|Which Python keyword checks non-membership in a collection?|not in  
+TXT|Which Python operator raises a number to a power?|**  
+TXT|Which Python operator divides and returns quotient and remainder separately?|divmod  
+TXT|Which Python operator divides and returns floor of division?|//  
+TXT|Which Python operator divides and returns float?|/  
+TXT|Which Python operator multiplies?|*  
+TXT|Which Python operator adds?|+  
+TXT|Which Python operator subtracts?|−  
+TXT|Which Python operator subtracts numbers but returns absolute value?|abs(a−b)  
+TXT|Which Python operator modulo returns remainder?|%  
+TXT|Which Python keyword creates a generator function?|yield  
+TXT|Which Python method returns type of object?|type  
+TXT|Which Python method converts object to string?|str  
+TXT|Which Python method converts object to integer?|int  
+TXT|Which Python method converts object to float?|float  
+TXT|Which Python method converts object to boolean?|bool  
+TXT|Which Python method checks if a string is alphabetic?|isalpha  
+TXT|Which Python method checks if a string is numeric?|isnumeric  
+TXT|Which Python method checks if string is alphanumeric?|isalnum  
+TXT|Which Python method checks if string is uppercase?|isupper  
+TXT|Which Python method checks if string is lowercase?|islower  
+TXT|Which Python method counts substring occurrences?|count  
+TXT|Which Python method finds index of substring?|find  
+TXT|Which Python method checks if string starts with substring?|startswith  
+TXT|Which Python method checks if string ends with substring?|endswith  
+TXT|Which Python method formats a string?|format  
+TXT|Which Python keyword defines anonymous function?|lambda  
+TXT|Which Python keyword creates a class?|class  
+TXT|Which Python keyword creates a try block?|try  
+TXT|Which Python keyword executes code after try/except regardless of exceptions?|finally  
+TXT|Which Python keyword raises an exception?|raise  
+TXT|Which Python keyword executes code if no exception occurs?|else  
+TXT|Which Python keyword imports a module?|import  
+TXT|Which Python keyword removes a variable from namespace?|del  
+TXT|Which Python keyword defines a loop with condition?|while  
+TXT|Which Python keyword defines a for loop?|for  
+TXT|Which Python keyword exits a loop?|break  
+TXT|Which Python keyword skips current loop iteration?|continue  
+TXT|Which Python keyword does nothing?|pass  
+TXT|Which Python keyword defines a function?|def  
+TXT|Which Python keyword returns a value from function?|return  
+TXT|Which Python keyword defines global variable?|global  
+TXT|Which Python keyword defines nonlocal variable?|nonlocal  
+TXT|Which Python keyword is used for conditional branching?|if  
+TXT|Which Python keyword handles alternate condition?|elif  
+TXT|Which Python keyword handles default branch?|else  
+TXT|Which Python keyword checks membership?|in  
+TXT|Which Python keyword checks non-membership?|not in  
+TXT|Which Python operator is used for exponentiation?|**  
+TXT|Which Python operator returns floor of division?|//  
+TXT|Which Python operator returns modulo?|%  
+TXT|Which Python operator multiplies?|*  
+TXT|Which Python operator divides?|/  
+TXT|Which Python operator adds?|+  
+TXT|Which Python operator subtracts?|−  
+TXT|Which Python operator compares equality?|==  
+TXT|Which Python operator compares inequality?|!=  
+TXT|Which Python operator compares greater than?|>  
+TXT|Which Python operator compares less than?|<  
+TXT|Which Python operator compares greater or equal?|>=  
+TXT|Which Python operator compares less or equal?|<=  
+TXT|Which Python operator is logical AND?|and  
+TXT|Which Python operator is logical OR?|or  
+TXT|Which Python operator is logical NOT?|not  
+TXT|Which Python operator is bitwise AND?|&  
+TXT|Which Python operator is bitwise OR?||  
+TXT|Which Python operator is bitwise XOR?|^  
+TXT|Which Python operator is bitwise NOT?|~  
+TXT|Which Python operator is bitwise left shift?|<<  
+TXT|Which Python operator is bitwise right shift?|>>  
+
+MS|Which of these are Python data types?|int|float|tuple|list|int, float, tuple, list  
+MS|Which of these are immutable in Python?|tuple|list|string|set|tuple, string  
+MS|Which of these are mutable in Python?|list|dict|tuple|set|list, dict, set  
+MS|Which of these are sorting algorithms?|merge sort|bubble sort|linear search|quick sort|merge sort, bubble sort, quick sort  
+MS|Which of these are search algorithms?|binary search|linear search|heap sort|dfs|binary search, linear search, dfs  
+MS|Which of these are vector quantities?|velocity|speed|acceleration|force|velocity, acceleration, force  
+MS|Which of these are scalar quantities?|mass|temperature|velocity|energy|mass, temperature, energy  
+MS|Which of these are basic SQL commands?|SELECT|INSERT|UPDATE|DELETE|SELECT, INSERT, UPDATE, DELETE  
+MS|Which of these are primitive C++ data types?|int|char|float|string|int, char, float  
+MS|Which of these are non-primitive C++ data types?|array|pointer|class|int|array, pointer, class  
+MS|Which of these are Java access modifiers?|public|private|protected|default|public, private, protected, default  
+MS|Which of these are Python logical operators?|and|or|not|==|and, or, not  
+MS|Which of these are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these are Python arithmetic operators?|+|-|*|/|+, -, *, /  
+MS|Which of these are Python bitwise operators?|&|^|~|and|&, ^, ~  
+MS|Which of these are fundamental forces in physics?|gravity|electromagnetic|strong nuclear|weak nuclear|gravity, electromagnetic, strong nuclear, weak nuclear  
+MS|Which of these are states of matter?|solid|liquid|gas|plasma|solid, liquid, gas, plasma  
+MS|Which of these are renewable energy sources?|solar|wind|geothermal|coal|solar, wind, geothermal  
+MS|Which of these are types of memory in computers?|RAM|ROM|Cache|Hard Disk|RAM, ROM, Cache  
+MS|Which of these are types of loops in Python?|for|while|do|foreach|for, while  
+MS|Which of these are Python string methods?|upper|lower|strip|pop|upper, lower, strip  
+MS|Which of these are Python list methods?|append|pop|sort|split|append, pop, sort  
+MS|Which of these are OOP concepts?|inheritance|encapsulation|polymorphism|abstraction|inheritance, encapsulation, polymorphism, abstraction  
+MS|Which of these are C++ keywords?|new|delete|class|var|new, delete, class  
+MS|Which of these are common data structures?|array|linked list|stack|queue|array, linked list, stack, queue  
+MS|Which of these are network topologies?|star|bus|ring|tree|star, bus, ring, tree  
+MS|Which of these are types of power in physics?|mechanical|electrical|thermal|magical|mechanical, electrical, thermal  
+MS|Which of these are Python set methods?|add|remove|union|append|add, remove, union  
+MS|Which of these are Python dictionary methods?|keys|values|get|append|keys, values, get  
+MS|Which of these are Python keywords for exception handling?|try|except|finally|catch|try, except, finally  
+MS|Which of these are fundamental arithmetic operations?|addition|subtraction|multiplication|division|addition, subtraction, multiplication, division  
+MS|Which of these are types of Python loops?|for|while|repeat|foreach|for, while  
+MS|Which of these are types of C++ loops?|for|while|do-while|foreach|for, while, do-while
+MS|Which of these are physical quantities measured in SI units?|mass|length|time|color|mass, length, time  
+MS|Which of these are scalar quantities in physics?|temperature|mass|speed|displacement|temperature, mass, speed  
+MS|Which of these are vector quantities in physics?|velocity|acceleration|force|mass|velocity, acceleration, force  
+MS|Which of these are types of Python errors?|SyntaxError|ValueError|TypeError|MemoryError|SyntaxError, ValueError, TypeError, MemoryError  
+MS|Which of these are common programming paradigms?|procedural|object-oriented|functional|magical|procedural, object-oriented, functional  
+MS|Which of these are relational database systems?|MySQL|PostgreSQL|Oracle|MongoDB|MySQL, PostgreSQL, Oracle  
+MS|Which of these are non-relational database systems?|MongoDB|Cassandra|MySQL|PostgreSQL|MongoDB, Cassandra  
+MS|Which of these are Python immutable types?|tuple|string|list|frozenset|tuple, string, frozenset  
+MS|Which of these are mutable types in Python?|list|dict|set|tuple|list, dict, set  
+MS|Which of these are examples of loops in programming?|for|while|do-while|foreach|for, while, do-while, foreach  
+MS|Which of these are types of angles?|acute|right|obtuse|reflex|acute, right, obtuse, reflex  
+MS|Which of these are prime numbers?|2|3|5|4|2, 3, 5  
+MS|Which of these are composite numbers?|4|6|9|7|4, 6, 9  
+MS|Which of these are Python collection types?|list|tuple|set|dict|list, tuple, set, dict  
+MS|Which of these are physical laws?|Newton's first law|Ohm's law|Hooke's law|Pythagoras' theorem|Newton's first law, Ohm's law, Hooke's law  
+MS|Which of these are SI base units?|meter|kilogram|second|liter|meter, kilogram, second  
+MS|Which of these are programming languages?|Python|C++|Java|HTML|Python, C++, Java  
+MS|Which of these are markup languages?|HTML|XML|CSS|Python|HTML, XML  
+MS|Which of these are relational operators in Python?|==|!=|>|<|==, !=, >, <  
+MS|Which of these are arithmetic operators in Python?|+|-|*|/|+, -, *, /  
+MS|Which of these are Python data structures?|list|tuple|set|dict|list, tuple, set, dict  
+MS|Which of these are examples of OOP languages?|Python|C++|Java|C|Python, C++, Java  
+MS|Which of these are control flow statements in Python?|if|elif|else|switch|if, elif, else  
+MS|Which of these are types of computer memory?|RAM|ROM|Cache|SSD|RAM, ROM, Cache  
+MS|Which of these are forms of energy?|kinetic|potential|thermal|chemical|kinetic, potential, thermal, chemical  
+MS|Which of these are Python operators?|+|-|*|//|+, -, *, //  
+MS|Which of these are Python comparison operators?|==|!=|>|<=|==, !=, >, <=  
+MS|Which of these are Python logical operators?|and|or|not|==|and, or, not  
+MS|Which of these are Python set operations?|union|intersection|difference|append|union, intersection, difference  
+MS|Which of these are components of a computer?|CPU|RAM|Hard Drive|Monitor|CPU, RAM, Hard Drive, Monitor  
+MS|Which of these are types of electrical circuits?|series|parallel|short|open|series, parallel  
+MS|Which of these are Python numeric types?|int|float|complex|str|int, float, complex  
+MS|Which of these are electromagnetic waves?|light|radio|X-ray|sound|light, radio, X-ray  
+MS|Which of these are sorting algorithms in Python?|sort|sorted|bubble sort|merge sort|bubble sort, merge sort  
+MS|Which of these are types of Python functions?|built-in|user-defined|anonymous|private|built-in, user-defined, anonymous  
+MS|Which of these are logical values in Python?|True|False|1|0|True, False  
+MS|Which of these are Python looping keywords?|for|while|foreach|repeat|for, while  
+MS|Which of these are types of errors in Python?|SyntaxError|TypeError|ValueError|IndexError|SyntaxError, TypeError, ValueError, IndexError  
+MS|Which of these are physical constants?|speed of light|Planck's constant|gravitational constant|pi|speed of light, Planck's constant, gravitational constant  
+MS|Which of these are Python string methods?|upper|lower|strip|replace|upper, lower, strip, replace  
+MS|Which of these are Python list methods?|append|pop|sort|reverse|append, pop, sort, reverse  
+MS|Which of these are types of computer networks?|LAN|WAN|MAN|PAN|LAN, WAN, MAN, PAN  
+MS|Which of these are Python built-in functions?|len|abs|type|print|len, abs, type, print  
+MS|Which of these are Python loop control statements?|break|continue|pass|return|break, continue, pass  
+MS|Which of these are types of energy?|kinetic|potential|thermal|magical|kinetic, potential, thermal  
+MS|Which of these are types of Python exceptions?|ZeroDivisionError|IndexError|KeyError|MemoryError|ZeroDivisionError, IndexError, KeyError, MemoryError  
+MS|Which of these are Python keywords?|if|for|def|class|if, for, def, class  
+MS|Which of these are forms of computer storage?|RAM|ROM|SSD|HDD|RAM, ROM, SSD, HDD  
+MS|Which of these are examples of high-level languages?|Python|Java|C++|Assembly|Python, Java, C++  
+MS|Which of these are low-level programming languages?|Assembly|Machine code|Python|C++|Assembly, Machine code  
+MS|Which of these are examples of relational databases?|MySQL|PostgreSQL|Oracle|MongoDB|MySQL, PostgreSQL, Oracle  
+MS|Which of these are non-relational databases?|MongoDB|Cassandra|Redis|MySQL|MongoDB, Cassandra, Redis  
+MS|Which of these are Python collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of these are OOP concepts?|inheritance|polymorphism|encapsulation|abstraction|inheritance, polymorphism, encapsulation, abstraction  
+MS|Which of these are Python conditional statements?|if|elif|else|switch|if, elif, else  
+MS|Which of these are Python data types?|int|float|str|bool|int, float, str, bool  
+MS|Which of these are common algorithms?|binary search|linear search|merge sort|bubble sort|binary search, linear search, merge sort, bubble sort  
+MS|Which of these are vector quantities?|displacement|velocity|acceleration|force|displacement, velocity, acceleration, force  
+MS|Which of these are scalar quantities?|temperature|mass|speed|distance|temperature, mass, speed, distance  
+MS|Which of these are Python operators?|+|-|*|/|+, -, *, /  
+MS|Which of these are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these are Python logical operators?|and|or|not|==|and, or, not  
+MS|Which of these are Python set methods?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of these are Python dictionary methods?|keys|values|get|items|keys, values, get, items

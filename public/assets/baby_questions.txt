@@ -1,0 +1,608 @@
+﻿IMG|Which is the area formula of a circle?|rectangle|triangle|circle|square|circle
+IMG|Which of the units used is NOT an S.I. Unit?|celsius|metre|kilogram|second|celsius
+IMG|Which of these quantities is a scalar?|velocity|force|mass|acceleration|mass
+IMG|Which programming language is mainly used for web development?|python|c++|javascript|assembly|javascript
+IMG|Which of the following is NOT a type of energy?|kinetic|thermal|elastic|speed|speed
+MH|shape to its formula|rectangle|circle|square|triangle|shape_a|shape_b|shape_c|shape_d
+MH|SI unit to its quantity|length|time|current|temperature|metre_a|second_b|ampere_c|kelvin_d
+MH|physics symbol to its meaning|velocity|acceleration|force|time|v_a|a_b|F_c|s_d
+MH|math formula to its name|abc|Emc|Fma|Apir2|pythagoras_a|mass_energy_b|newton2_c|circle_area_d
+MH|logic gate to its symbol|AND|OR|NOT|XOR|logic_and_a|logic_or_b|logic_not_c|logic_xor_d
+
+MC|What is 5+5?|8|10|12|b
+MC|What is the square root of 9?|2|3|4|b
+MC|What is 7−2?|4|5|6|b
+MC|What is 3×4?|7|10|12|c
+MC|What is 12÷3?|4|5|6|a
+MC|What is the next even number after 6?|7|8|10|b
+MC|What is 1/2 as a decimal?|0.25|0.5|1|b
+MC|What is the approximate value of π?|2|3.14|4|b
+MC|Which is a prime number?|6|9|11|c
+MC|Solve: 2x=8|2|3|4|c
+MC|What is the SI unit of force?|Newton|Joule|Watt|a
+MC|What force pulls objects to Earth?|Friction|Gravity|Magnetism|b
+MC|What is the SI unit of time?|Minute|Hour|Second|c
+MC|What is the SI unit of mass?|Gram|Kilogram|Tonne|b
+MC|Energy is measured in?|Watts|Newtons|Joules|c
+MC|What is the unit of power?|Pascal|Watt|Kelvin|b
+MC|Boiling point of water in °C?|50|100|150|b
+MC|Which is renewable energy?|Coal|Oil|Solar|c
+MC|State of matter of ice?|Liquid|Solid|Gas|b
+MC|What is the SI unit of temperature?|Celsius|Kelvin|Joule|b
+MC|What does HTML stand for?|HyperText Markup Language|High Tech Machine Language|Hyper Transfer Machine Logic|a
+MC|Which is a programming language?|Excel|Python|Google|b
+MC|Symbol for a Python comment?|//|#|/*|b
+MC|What does “==” mean?|Assignment|Comparison|Addition|b
+MC|Used to store many items?|Class|Loop|Array|c
+MC|Which is a Boolean value?|number|true|string|b
+MC|What repeats code?|Function|Loop|Return|b
+MC|Which is a datatype?|int|loop|print|a
+MC|Keyword to create class in Java?|class|makeclass|create|a
+MC|What does IDE stand for?|Internal Device Editor|Integrated Development Environment|Internet Data Engine|b
+MC|What is 20÷4?|4|5|6|b
+MC|Area of rectangle 3×4?|6|7|12|c
+MC|What is 15−7?|6|7|8|c
+MC|What is 2³?|4|6|8|c
+MC|What is 25% as decimal?|0.25|0.5|0.75|a
+MC|Acceleration due to gravity?|9.8 m/s²|2 m/s²|20 m/s²|a
+MC|Which travels fastest?|Sound|Light|Car|b
+MC|Temperature measured in?|Watts|Kelvin|Metres|b
+MC|Which is a vector quantity?|Speed|Mass|Velocity|c
+MC|What is a conductor?|Blocks electricity|Allows electricity|Creates electricity|b
+MC|Language used for web styling?|HTML|CSS|Python|b
+MC|What does print() do?|Shows output|Adds numbers|Saves files|a
+MC|What does RAM stand for?|Random Access Memory|Rapid Action Mode|Read Any Module|a
+MC|Operator for addition?|+|*|&|a
+MC|FIFO data structure?|Stack|Queue|Array|b
+MC|Function keyword in Python?|func|define|def|c
+MC|Data format used on APIs?|JSON|CSS|HTTP|a
+MC|CPU stands for?|Central Process Unit|Central Processing Unit|Compute Power Unit|b
+MC|A loop type?|repeat|count|for|c
+MC|Symbol for multiplication in code?|×|*|#|b
+MC|What is 4+3?|5|6|7|c
+MC|What is 9−4?|4|5|6|b
+MC|What is 6×2?|8|10|12|c
+MC|What is 18÷3?|3|6|9|b
+MC|What is the square root of 16?|2|4|8|b
+MC|What is 10% as a decimal?|0.1|1|0.01|a
+MC|Which number is even?|3|5|8|c
+MC|What is 2²?|2|4|8|b
+MC|What is 30÷5?|5|6|7|b
+MC|What is 3×5?|10|15|20|b
+MC|Unit of energy?|Newton|Joule|Watt|b
+MC|Unit of frequency?|Hertz|Pascal|Kelvin|a
+MC|What does a thermometer measure?|Speed|Temperature|Pressure|b
+MC|What is stored energy called?|Kinetic|Potential|Thermal|b
+MC|Which is a non-renewable resource?|Coal|Wind|Solar|a
+MC|What causes objects to float?|Magnetism|Air resistance|Upthrust|c
+MC|What is the SI unit of length?|Metre|Litre|Gram|a
+MC|What is a push or pull called?|Force|Power|Speed|a
+MC|What is an insulator?|Lets current flow|Blocks current|Generates current|b
+MC|Which state of matter has no fixed shape?|Solid|Liquid|Gas|c
+MC|Which language runs in the browser?|Python|JavaScript|C#|b
+MC|Which tag creates a paragraph in HTML?|<p>|<h1>|<div>|a
+MC|What is used to style HTML?|C#|CSS|Java|b
+MC|Which symbol ends a C# statement?|.|;|:|b
+MC|Which is a loop?|if|for|class|b
+MC|What does “int” represent?|Decimal|Integer|Text|b
+MC|Which operator checks inequality in Python?|!=|==|<>|a
+MC|Which keyword defines a variable in JavaScript?|make|var|def|b
+MC|Which command outputs text in Python?|echo|print|write|b
+MC|What is true/false called?|String|Integer|Boolean|c
+MC|What is 8+7?|13|14|15|a
+MC|What is 14−6?|6|7|8|c
+MC|What is 4×4?|12|16|20|b
+MC|What is 21÷3?|6|7|8|b
+MC|Solve: x+3=8|3|4|5|c
+MC|Value of 1/4?|0.1|0.25|0.5|b
+MC|What is 50% of 10?|4|5|6|b
+MC|What is the next prime after 7?|9|11|13|b
+MC|What is 0×9?|0|1|9|a
+MC|What is 100−1?|98|99|100|b
+MC|What is force divided by area?|Velocity|Pressure|Density|b
+MC|What is the unit of electric current?|Volt|Ampere|Watt|b
+MC|What do magnets attract?|Wood|Plastic|Iron|c
+MC|What does a battery provide?|Force|Voltage|Mass|b
+MC|What type of energy is sound?|Kinetic|Chemical|Mechanical|c
+MC|What do plants use for photosynthesis?|Oxygen|Carbon dioxide|Helium|b
+MC|What is the earth’s natural satellite?|Sun|Mars|Moon|c
+MC|What travels as a waveform?|Light|Rock|Metal|a
+MC|What does density equal?|Mass÷Volume|Mass×Volume|Volume−Mass|a
+MC|What is the freezing point of water (°C)?|0|10|50|a
+MC|What is 2+6?|6|7|8|c
+MC|What is 9−3?|5|6|7|b
+MC|What is 3×6?|15|18|21|b
+MC|What is 24÷6?|3|4|6|b
+MC|What is the square root of 25?|4|5|6|b
+MC|What is 0.2 as a fraction?|1/5|1/4|1/2|a
+MC|What is 1/3 as a decimal?|0.33|0.5|0.25|a
+MC|What is 7×3?|18|20|21|c
+MC|What is 4²?|8|12|16|c
+MC|What is 6÷2?|2|3|4|b
+MC|What is the SI unit of charge?|Coulomb|Ampere|Volt|a
+MC|What does a voltmeter measure?|Current|Voltage|Resistance|b
+MC|What travels faster?|Light|Sound|Wind|a
+MC|What is the unit of resistance?|Volt|Ohm|Watt|b
+MC|What is heat measured in?|Joules|Watts|Meters|a
+MC|What happens to particles when heated?|Slow down|Stay same|Speed up|c
+MC|What state of matter is steam?|Solid|Liquid|Gas|c
+MC|What is stored in a battery?|Electrical energy|Light energy|Sound energy|a
+MC|What is the unit of work?|Newton|Joule|Watt|b
+MC|What is the centre of our solar system?|Earth|Sun|Moon|b
+MC|Which tag makes text bold in HTML?|<i>|<b>|<p>|b
+MC|Which command shows output in JavaScript?|echo|print|console.log|c
+MC|Which is a valid variable name?|2num|_num|num-|b
+MC|What does CSS control?|Structure|Logic|Style|c
+MC|Which is a backend language?|HTML|CSS|Python|c
+MC|What does SQL manage?|Graphics|Databases|Audio|b
+MC|Which loop repeats until a condition is false?|for|do while|break|b
+MC|What does “return” do?|Outputs number|Stops a loop|Exits a function|c
+MC|Which is a file extension for Python?|.js|.py|.html|b
+MC|What is 13+4?|16|17|18|b
+MC|What is 12−7?|4|5|6|b
+MC|What is 8×2?|14|15|16|c
+MC|What is 36÷4?|6|8|9|b
+MC|What is 3³?|6|9|27|c
+MC|What is 2/10 as a decimal?|0.02|0.2|2.0|b
+MC|What is the next multiple of 5 after 15?|20|25|30|a
+MC|What is 1+0.5?|0.5|1|1.5|c
+MC|What is the perimeter of a square with side 3?|9|12|15|b
+MC|Solve 5x=20|2|3|4|c
+MC|What is kinetic energy?|Stored energy|Energy of motion|Sound energy|b
+MC|What does a prism do to light?|Stops it|Speeds it up|Splits it|c
+MC|What is the unit of temperature in science?|Celsius|Kelvin|Fahrenheit|b
+MC|What force opposes motion?|Gravity|Friction|Lift|b
+MC|What is the main gas in air?|Oxygen|Nitrogen|Carbon dioxide|b
+MC|What keeps planets in orbit?|Magnetism|Friction|Gravity|c
+MC|What does a resistor do?|Stores charge|Slows current|Creates magnetism|b
+MC|Which keyword creates a function in JavaScript?|func|function|method|b
+MC|Which protocol loads web pages?|FTP|HTTP|SSH|b
+
+TF|2+2 equals 4|t
+TF|A square has 3 sides|f
+TF|10 is an even number|t
+TF|5×5 equals 30|f
+TF|A right angle is 90 degrees|t
+TF|The number 7 is even|f
+TF|1/2 is the same as 0.5|t
+TF|0 is greater than 1|f
+TF|The number 9 is a square number|t
+TF|12÷3 equals 4|t
+TF|Gravity pulls objects downward|t
+TF|Sound travels faster than light|f
+TF|Water freezes at 0°C|t
+TF|Friction reduces motion|t
+TF|A gas has a fixed volume|f
+TF|Earth orbits the sun|t
+TF|Mass is measured in seconds|f
+TF|Air is a fluid|t
+TF|Light can travel in a vacuum|t
+TF|Voltage is measured in newtons|f
+TF|HTML is a programming language|f
+TF|Python uses indentation|t
+TF|CSS controls the layout of web pages|t
+TF|In programming, "==" means equal|t
+TF|JavaScript runs only on servers|f
+TF|A loop repeats code|t
+TF|Variables can store data|t
+TF|SQL is used for animations|f
+TF|Booleans represent true or false|t
+TF|RAM is permanent storage|f
+TF|2+3=6|f
+TF|6×2=12|t
+TF|15 is greater than 20|f
+TF|The square root of 81 is 9|t
+TF|100−1=99|t
+TF|Pi is exactly equal to 3|f
+TF|Weight is a force|t
+TF|Electric current is measured in amps|t
+TF|Ice is a liquid|f
+TF|Plants need sunlight to make food|t
+TF|The moon produces its own light|f
+TF|Heat flows from hot to cold|t
+TF|A resistor increases current flow|f
+TF|0 is a natural number|t
+TF|Acceleration is a vector quantity|t
+TF|Java uses curly braces|t
+TF|HTML uses <> tags|t
+TF|True/False values are called strings|f
+TF|A byte is 8 bits|t
+TF|pi is approximately 3.14|t
+TF|a byte is 8 bits|t
+TF|force equals mass times acceleration|t
+TF|the sun orbits the earth|f
+TF|0 is an even number|t
+TF|sound travels faster than light|f
+TF|gravity pulls objects toward the center of the earth|t
+TF|html is a programming language|f
+TF|water boils at 100°C at sea level|t
+TF|mass and weight are the same thing|f
+TF|acceleration is the rate of change of velocity|t
+TF|a variable stores data in programming|t
+TF|light cannot travel through a vacuum|f
+TF|power is measured in watts|t
+TF|the square root of 36 is 5|f
+TF|a loop repeats a section of code|t
+TF|atoms are the smallest particles of matter|f
+TF|voltage is measured in volts|t
+TF|friction is a force that opposes motion|t
+TF|a triangle has four sides|f
+TF|density is mass divided by volume|t
+TF|pressure is force divided by area|t
+TF|the speed of light is about 3×10^8 m/s|t
+TF|electrons have a negative charge|t
+TF|distance is a vector|f
+TF|polar bears live in antarctica|f
+TF|boolean values are true or false|t
+TF|moment = force × distance|t
+TF|heat travels from cold objects to hot objects naturally|f
+TF|the area of a rectangle is length × width|t
+TF|the equation e = mc^2 was discovered by newton|f
+TF|a class is a blueprint for objects|t
+TF|double has higher precision than float|t
+TF|velocity includes direction|t
+TF|c# is an object-oriented language|t
+TF|heavy objects fall faster than light objects in a vacuum|f
+TF|the derivative of x^2 is 2x|t
+TF|iron is a metal|t
+TF|work done = force × distance|t
+TF|programs can run without a cpu|f
+TF|strings store text|t
+TF|an if statement is a selection structure|t
+TF|the boiling point of water in kelvin is 373k|t
+TF|the moon produces its own light|f
+TF|the binary system uses only 0 and 1|t
+TF|momentum = mass + velocity|f
+TF|energy cannot be created or destroyed|t
+TF|planets orbit stars|t
+TF|power = energy ÷ time|t
+TF|the sum of angles in a triangle is 180 degrees|t
+TF|the unit of resistance is the ohm|t
+TF|an int can store decimal values|f
+TF|earth is the third planet from the sun|t
+TF|force is measured in joules|f
+TF|variables can change value during program execution|t
+TF|the derivative of a constant is 0|t
+TF|light travels faster than sound|t
+TF|arrays can hold multiple values|t
+TF|the area of a circle is 2πr|f
+TF|gravity is weaker on the moon than on earth|t
+TF|a boolean can store text data|f
+TF|voltage is energy per unit charge|t
+TF|mass is measured in kilograms|t
+TF|the compiler translates code into machine language|t
+TF|increasing temperature generally increases pressure in a gas|t
+TF|loops allow repeating code|t
+TF|weight is mass × gravity|t
+TF|two parallel lines never meet|t
+TF|c# was developed by microsoft|t
+TF|speed is a vector quantity|f
+TF|electrons orbit the nucleus|t
+TF|a float is more precise than a double|f
+TF|power = work ÷ time|t
+TF|kinetic energy increases with speed|t
+TF|the hypotenuse is opposite the right angle|t
+TF|cpu stands for computer processing unit|f
+TF|moment is a turning effect of a force|t
+TF|a for loop always runs forever|f
+TF|the square root of 49 is 7|t
+TF|energy is measured in joules|t
+TF|a class can contain methods and fields|t
+TF|the speed of sound in air is about 340 m/s|t
+TF|work done = force ÷ distance|f
+TF|global variables can be accessed from anywhere in the program|t
+TF|the nucleus contains electrons|f
+TF|the cube root of 8 is 4|f
+TF|resistors limit current in a circuit|t
+TF|html is used to style web pages|f
+TF|velocity is distance ÷ time|f
+TF|a constructor runs when an object is created|t
+TF|friction produces heat|t
+TF|newtons are a unit of force|t
+TF|strings can be concatenated|t
+TF|sound can travel through solids|t
+TF|the fastest possible speed is the speed of light|t
+TF|a variable must have a data type|t
+TF|protons have a positive charge|t
+TF|a do while loop runs at least once|t
+
+TXT|what is 2+2|4
+TXT|what gas do plants breathe in|carbon dioxide
+TXT|what is the capital of france|paris
+TXT|what is the square root of 9|3
+TXT|what planet do we live on|earth
+TXT|what is h2o commonly called|water
+TXT|how many days are in a week|7
+TXT|what is 5×3|15
+TXT|what do humans breathe in|oxygen
+TXT|what is the opposite of hot|cold
+TXT|what colour is the sky on a clear day|blue
+TXT|what is 10÷2|5
+TXT|how many hours are in a day|24
+TXT|what shape has three sides|triangle
+TXT|what do bees make|honey
+TXT|what is frozen water called|ice
+TXT|what is the first month of the year|january
+TXT|what is 1 less than 10|9
+TXT|what animal says meow|cat
+TXT|what is 6+1|7
+TXT|what colour are bananas|yellow
+TXT|what do cows produce|milk
+TXT|what is the opposite of up|down
+TXT|what is 8−3|5
+TXT|what is the boiling point of water in °c|100
+TXT|how many legs does a spider have|8
+TXT|what do you call a baby dog|puppy
+TXT|what does a thermometer measure|temperature
+TXT|what is the largest planet in the solar system|jupiter
+TXT|what is 7×2|14
+TXT|what unit is used to measure mass|kilogram
+TXT|what organ pumps blood|heart
+TXT|what is 12÷4|3
+TXT|what is the colour of grass|green
+TXT|what is the closest star to earth|sun
+TXT|how many minutes are in an hour|60
+TXT|what food do pandas mainly eat|bamboo
+TXT|what is 3 squared|9
+TXT|what does cpu stand for|central processing unit
+TXT|what is the freezing point of water in °c|0
+TXT|what is 15−5|10
+TXT|how many continents are there|7
+TXT|what part of the computer stores data long term|hard drive
+TXT|what is 9×1|9
+TXT|what animal is known as the king of the jungle|lion
+TXT|what is the main language used to build web pages|html
+TXT|how many sides does a square have|4
+TXT|what is 4 cubed|64
+TXT|what is 3+5|8
+TXT|what colour is an apple usually|red
+TXT|how many months are in a year|12
+TXT|what is the capital of england|london
+TXT|what animal barks|dog
+TXT|what is 20÷4|5
+TXT|what is the main gas in the air|nitrogen
+TXT|what shape has four equal sides|square
+TXT|how many days are in a year|365
+TXT|what is 9−4|5
+TXT|what metal is used for electrical wires|copper
+TXT|what instrument measures current|ammeter
+TXT|what is the largest ocean|pacific
+TXT|what is 6×4|24
+TXT|which planet is known as the red planet|mars
+TXT|what device stores program instructions|memory
+TXT|what is the capital of spain|madrid
+TXT|what is 11+2|13
+TXT|what is the 3rd month of the year|march
+TXT|how many letters are in the alphabet|26
+TXT|what is 18÷3|6
+TXT|what animal gives wool|sheep
+TXT|what is the colour of coal|black
+TXT|what is 10−7|3
+TXT|what country is famous for pizza|italy
+TXT|how many wheels does a bicycle have|2
+TXT|what gas do humans breathe out|carbon dioxide
+TXT|what number comes after 14|15
+TXT|what planet is closest to the sun|mercury
+TXT|what is 4+9|13
+TXT|what is the fastest land animal|cheetah
+TXT|how many legs does an ant have|6
+TXT|what fruit is shaped like a crescent|banana
+TXT|what is 7×3|21
+TXT|what do we call baby cats|kittens
+TXT|what organ do we use to breathe|lungs
+TXT|what is the colour of lemons|yellow
+TXT|what is 2 cubed|8
+TXT|what country uses yen|japan
+TXT|what season comes after summer|autumn
+TXT|what do fish use to breathe|gills
+TXT|what is half of 12|6
+TXT|what part of a computer displays the image|monitor
+TXT|what is 14−9|5
+TXT|what animal is the largest mammal|blue whale
+TXT|what is the capital of germany|berlin
+TXT|what shape has no corners|circle
+TXT|what do plants need to make food|sunlight
+TXT|what is 5×5|25
+TXT|what is 1+6|7
+TXT|what colour are emeralds|green
+TXT|how many centimetres are in a metre|100
+TXT|what is the capital of italy|rome
+TXT|what animal quacks|duck
+TXT|what is 16÷4|4
+TXT|what planet is known for its rings|saturn
+TXT|what shape has three corners|triangle
+TXT|how many hours are in two days|48
+TXT|what is 8−2|6
+TXT|which material is attracted to magnets|iron
+TXT|what is the hottest planet in the solar system|venus
+TXT|what is 9×2|18
+TXT|what tool measures voltage|voltmeter
+TXT|what is the capital of japan|tokyo
+TXT|what is 3+9|12
+TXT|what day comes after friday|saturday
+TXT|what season is the coldest|winter
+TXT|what is 5−3|2
+TXT|what country is famous for chocolate|switzerland
+TXT|how many legs does a horse have|4
+TXT|what gas do plants release|oxygen
+TXT|what number comes before 20|19
+TXT|what is 6+7|13
+TXT|what animal is the tallest|giraffe
+TXT|how many continents are in the world|7
+TXT|what is 21÷3|7
+TXT|what part of a plant absorbs water|roots
+TXT|what is the capital of canada|ottawa
+TXT|what is 2×9|18
+TXT|which planet is known as the blue planet|earth
+TXT|what instrument tells temperature|thermometer
+TXT|what is 4+8|12
+TXT|what animal has a trunk|elephant
+TXT|how many sides does a triangle have|3
+TXT|what is the colour of the sun|yellow
+TXT|what is 30−10|20
+TXT|what is the capital of australia|canberra
+TXT|what do humans drink to stay hydrated|water
+TXT|what is 7+8|15
+TXT|what do bees collect|nectar
+TXT|what shape has six sides|hexagon
+TXT|what is 15÷5|3
+TXT|what do birds use to fly|wings
+TXT|what is the main ingredient in bread|flour
+TXT|how many wheels does a car have|4
+TXT|what is 10+11|21
+TXT|what fruit has seeds on the outside|strawberry
+TXT|what is the capital of ireland|dublin
+
+MS|which are even numbers|2|3|4|5|2, 4  
+MS|which are prime numbers|2|3|4|6|2, 3  
+MS|which are programming languages|python|java|html|c#|python, java, c#  
+MS|which are fruits|apple|carrot|banana|grape|apple, banana, grape  
+MS|which are vegetables|carrot|broccoli|banana|potato|carrot, broccoli, potato  
+MS|which are mammals|dog|cat|snake|whale|dog, cat, whale  
+MS|which are planets|mars|earth|sun|jupiter|mars, earth, jupiter  
+MS|which are birds|eagle|sparrow|penguin|dolphin|eagle, sparrow, penguin  
+MS|which are metals|iron|gold|plastic|silver|iron, gold, silver  
+MS|which are oceans|atlantic|pacific|indian|everest|atlantic, pacific, indian  
+MS|which are shapes|circle|square|triangle|apple|circle, square, triangle  
+MS|which are units of time|second|minute|hour|gram|second, minute, hour  
+MS|which are coding concepts|loop|variable|array|banana|loop, variable, array  
+MS|which are energy sources|solar|wind|coal|wood|solar, wind, coal, wood  
+MS|which are musical instruments|guitar|piano|drums|house|guitar, piano, drums  
+MS|which are pets|dog|cat|hamster|tiger|dog, cat, hamster, tiger  
+MS|which are body parts|hand|leg|eye|phone|hand, leg, eye  
+MS|which are gases|oxygen|nitrogen|carbon dioxide|rock|oxygen, nitrogen, carbon dioxide  
+MS|which are natural disasters|earthquake|flood|tsunami|car|earthquake, flood, tsunami  
+MS|which are flowers|rose|tulip|sunflower|spoon|rose, tulip, sunflower  
+MS|which are liquids|water|oil|juice|stone|water, oil, juice  
+MS|which are devices|phone|tablet|laptop|banana|phone, tablet, laptop  
+MS|which are planets with rings|saturn|uranus|neptune|venus|saturn, uranus, neptune  
+MS|which objects use electricity|tv|lamp|computer|rock|tv, lamp, computer  
+MS|which are cold places|arctic|antarctica|freezer|desert|arctic, antarctica, freezer  
+MS|which are animals that lay eggs|chicken|duck|snake|cow|chicken, duck, snake  
+MS|which foods are sweet|cake|chocolate|ice cream|water|cake, chocolate, ice cream  
+MS|which are school subjects|maths|science|history|sleeping|maths, science, history  
+MS|which are devices that store data|usb drive|hard drive|ssd|pencil|usb drive, hard drive, ssd  
+MS|which are polygons|hexagon|pentagon|square|circle|hexagon, pentagon, square  
+MS|which are sources of light|sun|lamp|torch|paper|sun, lamp, torch  
+MS|which are positive numbers|1|2|3|-1|1, 2, 3  
+MS|which are units of mass|gram|kilogram|tonne|metre|gram, kilogram, tonne  
+MS|which are programming operators|+|−|*|cat|+, −, *  
+MS|which are scientific fields|biology|chemistry|physics|football|biology, chemistry, physics  
+MS|which are classroom items|pen|chair|desk|dog|pen, chair, desk  
+MS|which are liquids at room temperature|water|oil|mercury|stone|water, oil, mercury  
+MS|which are fruits that are red|apple|strawberry|cherry|banana|apple, strawberry, cherry  
+MS|which are planets closer to the sun than earth|mercury|venus|mars|jupiter|mercury, venus  
+MS|which are shapes with straight sides|square|triangle|circle|pentagon|square, triangle, pentagon  
+MS|which are mammals that live in water|whale|dolphin|shark|penguin|whale, dolphin  
+MS|which are programming loops|for|while|do|banana|for, while, do  
+MS|which are programming data types|int|float|string|banana|int, float, string  
+MS|which are renewable energy sources|solar|wind|hydro|coal|solar, wind, hydro  
+MS|which are animals with wings|bat|eagle|penguin|cat|bat, eagle  
+MS|which are planets with moons|mars|earth|jupiter|venus|mars, earth, jupiter  
+MS|which are modes of transport|car|bicycle|train|boat|car, bicycle, train, boat  
+MS|which are materials that conduct electricity|copper|iron|plastic|gold|copper, iron, gold  
+MS|which are planets in the solar system|earth|mars|venus|polaris|earth, mars, venus  
+MS|which are units of distance|metre|kilometre|centimetre|gram|metre, kilometre, centimetre  
+MS|which are programming keywords|if|else|while|banana|if, else, while  
+MS|which are even numbers|2|3|6|9|2, 6  
+MS|which are prime numbers|2|5|8|10|2, 5  
+MS|which are programming languages|c#|python|html|java|c#, python, java  
+MS|which are fruits|apple|banana|carrot|grape|apple, banana, grape  
+MS|which are vegetables|potato|carrot|broccoli|strawberry|potato, carrot, broccoli  
+MS|which are mammals|elephant|lion|crocodile|tiger|elephant, lion, tiger  
+MS|which are planets|mars|venus|earth|sun|mars, venus, earth  
+MS|which are birds|parrot|eagle|penguin|shark|parrot, eagle, penguin  
+MS|which are metals|aluminium|iron|gold|plastic|aluminium, iron, gold  
+MS|which are oceans|pacific|atlantic|indian|everest|pacific, atlantic, indian  
+MS|which are shapes|rectangle|triangle|circle|apple|rectangle, triangle, circle  
+MS|which are units of time|second|minute|hour|kilogram|second, minute, hour  
+MS|which are coding concepts|variable|array|loop|banana|variable, array, loop  
+MS|which are energy sources|coal|solar|wind|stone|coal, solar, wind  
+MS|which are musical instruments|violin|piano|drums|book|violin, piano, drums  
+MS|which are pets|cat|dog|hamster|lion|cat, dog, hamster  
+MS|which are body parts|eye|leg|hand|phone|eye, leg, hand  
+MS|which are gases|oxygen|nitrogen|carbon dioxide|stone|oxygen, nitrogen, carbon dioxide  
+MS|which are natural disasters|tsunami|earthquake|flood|tree|tsunami, earthquake, flood  
+MS|which are flowers|rose|tulip|sunflower|rock|rose, tulip, sunflower  
+MS|which are liquids|water|juice|oil|stone|water, juice, oil  
+MS|which are devices|laptop|tablet|phone|banana|laptop, tablet, phone  
+MS|which are planets with rings|saturn|uranus|jupiter|venus|saturn, uranus, jupiter  
+MS|which objects use electricity|lamp|computer|tv|rock|lamp, computer, tv  
+MS|which are cold places|antarctica|arctic|freezer|desert|antarctica, arctic, freezer  
+MS|which are animals that lay eggs|chicken|duck|snake|cow|chicken, duck, snake  
+MS|which foods are sweet|ice cream|cake|chocolate|salt|ice cream, cake, chocolate  
+MS|which are school subjects|history|maths|science|sleeping|history, maths, science  
+MS|which are devices that store data|ssd|hard drive|usb drive|pencil|ssd, hard drive, usb drive  
+MS|which are polygons|triangle|hexagon|square|circle|triangle, hexagon, square  
+MS|which are sources of light|sun|torch|lamp|paper|sun, torch, lamp  
+MS|which are positive numbers|3|2|1|-5|3, 2, 1  
+MS|which are units of mass|gram|kilogram|tonne|litre|gram, kilogram, tonne  
+MS|which are programming operators|+|−|*|/|+, −, *  
+MS|which are scientific fields|physics|chemistry|biology|football|physics, chemistry, biology  
+MS|which are classroom items|chair|desk|pen|dog|chair, desk, pen  
+MS|which are liquids at room temperature|mercury|water|oil|stone|mercury, water, oil  
+MS|which are fruits that are red|apple|cherry|strawberry|banana|apple, cherry, strawberry  
+MS|which are planets closer to the sun than earth|venus|mercury|mars|jupiter|venus, mercury  
+MS|which are shapes with straight sides|triangle|square|pentagon|circle|triangle, square, pentagon  
+MS|which are mammals that live in water|dolphin|whale|shark|penguin|dolphin, whale  
+MS|which are programming loops|while|for|do|banana|while, for, do  
+MS|which are programming data types|string|float|int|banana|string, float, int  
+MS|which are renewable energy sources|solar|wind|hydro|coal|solar, wind, hydro  
+MS|which are animals with wings|bat|eagle|penguin|cat|bat, eagle  
+MS|which are planets with moons|mars|earth|jupiter|venus|mars, earth, jupiter  
+MS|which are modes of transport|train|bicycle|car|boat|train, bicycle, car, boat  
+MS|which are materials that conduct electricity|copper|gold|iron|plastic|copper, gold, iron  
+MS|which are planets in the solar system|earth|mars|venus|polaris|earth, mars, venus  
+MS|which are units of distance|metre|kilometre|centimetre|gram|metre, kilometre, centimetre  
+MS|which are programming keywords|if|else|while|banana|if, else, while  
+MS|which are even numbers|4|7|8|9|4, 8  
+MS|which are prime numbers|3|6|5|9|3, 5  
+MS|which are programming languages|java|c++|python|html|java, c++, python  
+MS|which are fruits|banana|grape|tomato|apple|banana, grape, apple  
+MS|which are vegetables|spinach|carrot|potato|apple|spinach, carrot, potato  
+MS|which are mammals|lion|tiger|crocodile|elephant|lion, tiger, elephant  
+MS|which are planets|mars|venus|jupiter|sun|mars, venus, jupiter  
+MS|which are birds|sparrow|penguin|ostrich|cat|sparrow, penguin, ostrich  
+MS|which are metals|silver|iron|gold|plastic|silver, iron, gold  
+MS|which are oceans|pacific|atlantic|indian|mountain|pacific, atlantic, indian  
+MS|which are shapes|hexagon|square|triangle|apple|hexagon, square, triangle  
+MS|which are units of time|minute|hour|second|gram|minute, hour, second  
+MS|which are coding concepts|array|variable|function|banana|array, variable, function  
+MS|which are energy sources|wind|coal|solar|wood|wind, coal, solar, wood  
+MS|which are musical instruments|piano|drums|violin|rock|piano, drums, violin  
+MS|which are pets|hamster|dog|cat|lion|hamster, dog, cat  
+MS|which are body parts|hand|leg|eye|rock|hand, leg, eye  
+MS|which are gases|oxygen|carbon dioxide|nitrogen|stone|oxygen, carbon dioxide, nitrogen  
+MS|which are natural disasters|flood|tsunami|earthquake|tree|flood, tsunami, earthquake  
+MS|which are flowers|tulip|rose|sunflower|stone|tulip, rose, sunflower  
+MS|which are liquids|juice|water|oil|rock|juice, water, oil  
+MS|which are devices|tablet|phone|laptop|tree|tablet, phone, laptop  
+MS|which are planets with rings|uranus|saturn|jupiter|venus|uranus, saturn, jupiter  
+MS|which objects use electricity|computer|tv|lamp|rock|computer, tv, lamp  
+MS|which are cold places|arctic|antarctica|freezer|desert|arctic, antarctica, freezer  
+MS|which are animals that lay eggs|duck|chicken|snake|cow|duck, chicken, snake  
+MS|which foods are sweet|cake|ice cream|chocolate|salt|cake, ice cream, chocolate  
+MS|which are school subjects|science|history|maths|sleeping|science, history, maths  
+MS|which are devices that store data|ssd|hard drive|usb drive|pencil|ssd, hard drive, usb drive  
+MS|which are polygons|pentagon|square|triangle|circle|pentagon, square, triangle  
+MS|which are sources of light|sun|torch|lamp|paper|sun, torch, lamp  
+MS|which are positive numbers|1|2|5|-3|1, 2, 5  
+MS|which are units of mass|gram|kilogram|tonne|litre|gram, kilogram, tonne  
+MS|which are programming operators|+|−|*|/|+, −, *  
+MS|which are scientific fields|chemistry|biology|physics|football|chemistry, biology, physics  
+MS|which are classroom items|desk|chair|pen|dog|desk, chair, pen  
+MS|which are liquids at room temperature|water|oil|mercury|stone|water, oil, mercury  
+MS|which are fruits that are red|strawberry|cherry|apple|banana|strawberry, cherry, apple  
+MS|which are planets closer to the sun than earth|venus|mercury|mars|jupiter|venus, mercury  
+MS|which are shapes with straight sides|pentagon|square|triangle|circle|pentagon, square, triangle  
+MS|which are mammals that live in water|dolphin|whale|shark|penguin|dolphin, whale  
+MS|which are programming loops|while|for|do|banana|while, for, do  
+MS|which are programming data types|string|float|int|banana|string, float, int  
+MS|which are renewable energy sources|hydro|solar|wind|coal|hydro, solar, wind  
+MS|which are animals with wings|bat|penguin|eagle|cat|bat, eagle  
+MS|which are planets with moons|mars|earth|jupiter|venus|mars, earth, jupiter  
+MS|which are modes of transport|car|train|bicycle|boat|car, train, bicycle, boat  
+MS|which are materials that conduct electricity|copper|gold|iron|plastic|copper, gold, iron  
+MS|which are planets in the solar system|mars|venus|earth|polaris|mars, venus, earth  
+MS|which are units of distance|metre|kilometre|centimetre|gram|metre, kilometre, centimetre  
+MS|which are programming keywords|if|while|else|banana|if, while, else

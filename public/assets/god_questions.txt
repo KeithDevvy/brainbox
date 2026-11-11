@@ -1,0 +1,520 @@
+﻿IMG|Which is the area formula of a circle?|rectangle|triangle|circle|square|circle
+IMG|Which of the units used is NOT an S.I. Unit?|celsius|metre|kilogram|second|celsius
+IMG|Which of these quantities is a scalar?|velocity|force|mass|acceleration|mass
+IMG|Which programming language is mainly used for web development?|python|c++|javascript|assembly|javascript
+IMG|Which of the following is NOT a type of energy?|kinetic|thermal|elastic|speed|speed
+MH|shape to its formula|rectangle|circle|square|triangle|shape_a|shape_b|shape_c|shape_d
+MH|SI unit to its quantity|length|time|current|temperature|metre_a|second_b|ampere_c|kelvin_d
+MH|physics symbol to its meaning|velocity|acceleration|force|time|v_a|a_b|F_c|s_d
+MH|math formula to its name|abc|Emc|Fma|Apir2|pythagoras_a|mass_energy_b|newton2_c|circle_area_d
+MH|logic gate to its symbol|AND|OR|NOT|XOR|logic_and_a|logic_or_b|logic_not_c|logic_xor_d
+
+MC|What is the derivative of x^x?|x^x*(1+ln(x))|x^(x-1)|x^x|a
+MC|Evaluate the integral ∫e^(x^2) dx from 0 to 1?|0.7468|Cannot be expressed in elementary functions|1|b
+MC|What is the Laplace transform of t^2?|2/s^3|1/s^3|t/s^2|a
+MC|Which sorting algorithm has the best worst-case performance?|quick sort|merge sort|selection sort|b
+MC|Which algorithm is used to find the shortest path in a weighted graph?|Dijkstra|DFS|Prim|a
+MC|Which Python data type is immutable?|list|tuple|set|b
+MC|Which of these are eigenvalues of [[2,1],[1,2]]?|1,3|0,2|2,2|a
+MC|Which formula represents the Fourier series coefficient a_n?|1/π∫f(x)cos(nx)dx|∫f(x)dx|1/n∑f(x)|a
+MC|Which Python keyword defines a coroutine?|async|yield|await|a
+MC|What is the determinant of [[1,2,3],[0,1,4],[5,6,0]]?|2|-1|0|b
+MC|Time complexity of SA-IS suffix array construction?|O(n log n)|O(n)|O(n^2)|b
+MC|Which describes the Riemann Hypothesis?|All nontrivial zeros lie on Re(s)=1/2|ζ(s)=0 has no solutions|All zeros of ζ(s) are real|a
+MC|Which sorting algorithm is provably optimal?|Merge sort|Heap sort|Any achieving Ω(n log n)|c
+MC|Quantum gate creating superposition from |0⟩?|Hadamard|Pauli-X|CNOT|a
+MC|Conjugate prior of Bernoulli likelihood?|Gamma|Beta|Poisson|b
+MC|Characteristic of NP-complete problems?|Verifiable in polynomial time|Solvable in polynomial time|Requires exponential space|a
+MC|Derivative of x^x?|x^x(ln x + 1)|x^x ln x|x^(x-1)|a
+MC|Matrix factorisation used in PCA?|QR decomposition|SVD|Cholesky|b
+MC|Norm with smallest unit ball?|L∞|L1|L2|a
+MC|Heisenberg uncertainty applies to?|Position & momentum|Energy & wavelength|Charge & spin|a
+MC|Which test uses decreasing monotonic functions for convergence?|Comparison|Integral|Ratio|b
+MC|Paradigm emphasizing immutability?|Procedural|Functional|Logic|b
+MC|Universal classical gate?|XOR|NAND|NOR|b
+MC|Laplace transform of 1?|1/s|s|1/s²|a
+MC|Newton method converges quadratically when function is?|Linear|Twice differentiable near root|Constant|b
+MC|Which crypto algorithm is asymmetric?|AES|RSA|Twofish|b
+MC|Which structure stores sorted keys efficiently?|Hash table|Binary search tree|Stack|b
+MC|Integral of e^(−x²)?|No elementary form|π|1/e|a
+MC|Which system uses a second-order differential equation?|SHM|Projectile motion|Free fall|a
+MC|Halting problem is?|Undecidable|Decidable|Polynomial|a
+MC|Which numeral system do computers use internally?|Decimal|Hexadecimal|Binary|c
+MC|Shortest path with negative edges (no cycles)?|Floyd-Warshall|Bellman-Ford|Johnson|b
+MC|Which theorem: analytic function determined by subset values?|Identity theorem|Sard theorem|Weierstrass theorem|a
+MC|Transform for frequency analysis?|Fourier transform|Laplace transform|Hadamard transform|a
+MC|Tree with strongest height guarantee?|AVL|Red-black|Splay|a
+MC|ML technique reducing dimensionality?|Logistic regression|PCA|Naive Bayes|b
+MC|Law relating electric flux and charge?|Faraday|Gauss|Coulomb|b
+MC|Algorithm finding MST?|Kruskal|Dijkstra|Floyd-Warshall|a
+MC|Property of Hermitian matrices?|Real eigenvalues|Zero determinant|Always singular|a
+MC|Uses backpropagation?|Decision trees|Neural networks|K-means|b
+MC|Space complete under L2 norm?|L1|L2|C⁰|b
+MC|Method solving linear systems with orthogonal transforms?|Cholesky|SVD|LU|b
+MC|Which encryption uses elliptic curves?|RSA|ECC|AES|b
+MC|PDE describing heat flow?|Laplace|Heat equation|Wave|b
+MC|Which set is countable?|Reals|Rationals|Continuum|b
+MC|Prevents overfitting?|More features|Cross-validation|Higher LR|b
+MC|What is ∇×∇φ equal to?|∇²φ|0|∇φ|b
+MC|Which material exhibits zero resistance below a critical temperature?|Superconductor|Insulator|Semiconductor|a
+MC|Which search algorithm guarantees optimality with an admissible heuristic?|DFS|A*|Greedy BFS|b
+MC|Which theorem states every vector space has a basis?|Zorn’s lemma|Cantor’s theorem|Cauchy theorem|a
+MC|Which distribution models waiting times?|Normal|Poisson|Exponential|c
+MC|Which law states magnetic fields are produced by currents?|Gauss magnetic law|Ampère law|Snell law|b
+MC|Which algorithm finds strongly connected components?|Kahn|Kosaraju|Prim|b
+MC|Which one is collision-resistant?|SHA-256|MD5|CRC|a
+MC|Which algorithm reduces gradient variance?|Momentum|RMSProp|Adam|c
+MC|Which equation relates pressure, volume, and temperature for ideal gases?|Boyle|Charles|IDEAL GAS|c
+MC|Which method approximates integrals numerically?|Simpson’s rule|Euler’s method|Newton’s method|a
+MC|Which type of convergence is strongest?|Pointwise|Uniform|Weak|b
+MC|Which algorithm picks median in linear time?|Quickselect|Merge sort|Radix sort|a
+MC|Which ML model assumes conditional independence?|SVM|Naive Bayes|Random forest|b
+MC|Which loss is used for binary classification?|Cross-entropy|MSE|Hinge|a
+MC|Which equation describes circles in ℝ²?|x²+y²=r²|xy=r|x+y=r|a
+MC|Which logic system allows truth values between 0 and 1?|Boolean|Fuzzy logic|Modal|b
+MC|Which is the solution of y'=y with y(0)=1?|e^x|x|1|a
+MC|Which vector norm is rotation-invariant?|L1|L2|L∞|b
+MC|Which parameter controls variance in a normal distribution?|Mean|Median|Standard deviation|c
+MC|Which equation defines eigenvalues?|Ax=λx|Ax=b|AB=BA|a
+MC|Which computational problem is undecidable?|3SAT|Halting problem|Sorting|b
+MC|Which structure stores hierarchical data?|Array|Tree|Queue|b
+MC|Which transformation preserves angles?|Affine|Conformal|Projective|b
+MC|Which number is transcendental?|π|2|√2|a
+MC|Which law gives force between charges?|Hooke|Coulomb|Snell|b
+MC|Which solution method uses gradient and Hessian?|Gradient descent|Newton’s method|Random search|b
+MC|Which algorithm sorts in expected O(n)?|Radix sort|Merge sort|Heap sort|a
+MC|Which field describes EM waves?|Quantum mechanics|Electromagnetism|Thermodynamics|b
+MC|Which is the definition of a group?|Closure, associativity, identity, inverses|Commutative, associative|Identity only|a
+MC|Which ML method clusters data?|Linear regression|K-means|Logistic regression|b
+MC|Which CPU component performs arithmetic?|Cache|ALU|Register file|b
+MC|Which equation models population growth with carrying capacity?|Exponential|Logistic|Linear|b
+MC|Which optimisation adds λ||w||²?|L1|L2|Dropout|b
+MC|Which neural network is used for image recognition?|RNN|CNN|SVM|b
+MC|Which is a necessary condition for extrema?|Derivative = 0|Second derivative = 0|Function undefined|a
+MC|Which algorithm factorises integers efficiently on quantum hardware?|Grover|Shor|Deutsch|b
+MC|Which theorem provides basis size in finite vector spaces?|Rank-nullity|Green|Euler|a
+MC|Which test checks convergence using ratios?|Integral test|Comparison test|Ratio test|c
+MC|Which function is convex?|e^x|sin x|−x²|a
+MC|Which algorithm checks bipartiteness?|DFS|BFS|Both DFS and BFS|c
+MC|Which distribution approximates binomial for large n?|Uniform|Normal|Gamma|b
+MC|Which equation describes wave propagation?|Laplace|Heat|Wave|c
+MC|Which number system includes √−1?|Real|Complex|Rational|b
+MC|Which is the standard activation for binary classification?|ReLU|Sigmoid|Softmax|b
+MC|Which sampling method avoids replacement?|Bootstrap|Permutation sampling|Importance sampling|b
+MC|Which law relates voltage, current, and resistance?|Ohm|Gauss|Faraday|a
+MC|Which ML model partitions data using hyperplanes?|KNN|SVM|Naive Bayes|b
+MC|Which method is used to solve differential equations numerically?|Euler method|Cramer method|Gauss method|a
+MC|Which function has derivative equal to itself?|sin|cos|e^x|c
+
+TF|The derivative of x^x is x^x*(1+ln(x)).|t  
+TF|The integral ∫e^(x^2) dx can be expressed in elementary functions.|f  
+TF|The Laplace transform of t^2 is 2/s^3.|t  
+TF|Merge sort has worse worst-case performance than bubble sort.|f  
+TF|Dijkstra's algorithm can be used to find the shortest path in weighted graphs.|t  
+TF|In Python, lists are immutable.|f  
+TF|The matrix [[2,1],[1,2]] has eigenvalues 1 and 3.|t  
+TF|The Fourier series coefficient a_n is 1/π∫f(x)cos(nx)dx.|t  
+TF|The Python keyword 'async' defines a coroutine.|t  
+TF|The determinant of [[1,2,3],[0,1,4],[5,6,0]] is 1.|f  
+TF|Velocity, acceleration, force, and momentum are all vector quantities.|t  
+TF|Mass, temperature, speed, and energy are all scalar quantities.|t  
+TF|The derivative of ln(x^2+1) is 1/(x^2+1).|f  
+TF|The Python string method 'upper()' converts a string to uppercase.|t  
+TF|In Python, tuples, ints, and strings are hashable.|t  
+TF|The Python 'join()' method concatenates list elements into a string.|t  
+TF|MongoDB, Cassandra, and Redis are non-relational databases.|t  
+TF|Real, imaginary, conjugate, and polar are types of complex numbers.|t  
+TF|Python numeric types include int, float, complex, and decimal.|t  
+TF|Laplace transform and separation of variables are methods to solve differential equations analytically.|t  
+TF|Meter, kilogram, second, and ampere are fundamental SI units.|t  
+TF|F=ma, p=mv, and T=Iα are all Newtonian mechanics equations.|t  
+TF|List, tuple, dict, and set are all Python collection types.|t  
+TF|Python loops include for, while, do-while, and infinite loops.|f  
+TF|[1,1] and [1,-1] are eigenvectors of [[2,1],[1,2]].|t  
+TF|Python built-in functions include len(), abs(), sum(), max(), and min().|t  
+TF|Python logical operators include and, or, not.|t  
+TF|IndexError, KeyError, ValueError, and ZeroDivisionError are Python exception types.|t  
+TF|Python bitwise operators include &, ^, ~, and %.|f  
+TF|Positional, keyword, and default are types of Python arguments.|t  
+TF|Gradient, divergence, curl, and Laplacian are vector calculus operators.|t  
+TF|List, dict, set, and bytearray are Python mutable types.|t  
+TF|Tuple, string, frozenset, and bytes are Python immutable types.|t  
+TF|List, tuple, str, and bytes are Python built-in sequence types.|t  
+TF|+, -, *, / are Python numeric operators.|t  
+TF|==, !=, >, < are Python comparison operators.|t  
+TF|def, class, async, and await are Python keywords.|t  
+TF|split(), join(), replace(), and strip() are Python string methods.|t  
+TF|append(), pop(), sort(), and reverse() are Python list methods.|t  
+TF|keys(), values(), get(), and items() are Python dictionary methods.|t  
+TF|add(), remove(), union(), and intersection() are Python set methods.|t  
+TF|abs(), round(), divmod(), and pow() are Python numeric functions.|t  
+TF|Class, inheritance, polymorphism, and encapsulation are OOP features.|t  
+TF|Displacement, velocity, acceleration, and force are vector quantities in mechanics.|t  
+TF|Mass, speed, energy, and temperature are scalar quantities in mechanics.|t  
+TF|List, tuple, dict, and set are Python iterable types.|t  
+TF|+, ==, and, ** are Python operators.|t  
+TF|format(), f-string, % operator, and join() are methods for Python string formatting.|t  
+TF|Trapezoidal, Simpson, and Runge-Kutta are numerical integration methods.|t  
+TF|Matrix multiplication, determinant, inverse, and rank are linear algebra operations.|t  
+TF|numpy, scipy, math, and statistics are Python modules for numerical computing.|t  
+TF|matplotlib, seaborn, plotly, and bokeh are Python modules for data visualization.|t  
+TF|sympy is a Python module for symbolic math.|t  
+TF|os, shutil, pathlib, and tempfile are Python modules for file handling.|t  
+TF|threading, multiprocessing, asyncio, and queue are Python concurrency modules.|t  
+TF|c, h, G, and e are fundamental physical constants.|t  
+TF|With, contextlib, open, and finally are Python context manager utilities.|t  
+TF|List, dict, set, and generator are types of Python comprehensions.|f  
+TF|DFS, BFS, Dijkstra, and Prim are algorithms for graph traversal.|t  
+TF|Energy, work, heat, and potential energy are physical quantities measured in joules.|t  
+TF|all(), any(), isinstance(), and issubclass() return Booleans in Python.|t  
+TF|socket, http, urllib, and asyncio are Python networking modules.|t  
+TF|In, not in, is, and == are Python membership operators.|t  
+TF|int, float, str, and list are Python built-in types.|t  
+TF|Determinant, trace, rank, and inverse are matrix properties.|t  
+TF|@staticmethod, @classmethod, @property, and @abstractmethod are Python decorators.|t  
+TF|SyntaxError, TypeError, ValueError, and IndexError are types of Python errors.|t  
+TF|Eigen decomposition, Singular Value Decomposition, LU decomposition, and QR decomposition are matrix factorization methods.|t  
+TF|Finite difference, complex step, Richardson extrapolation, and central difference are numerical differentiation methods.|t  
+TF|Gaussian elimination, LU decomposition, Jacobi iteration, and Conjugate gradient are methods to solve linear systems.|t  
+TF|__iter__() and __next__() are Python iterator methods.|t  
+TF|ZeroDivisionError, ImportError, KeyError, and MemoryError are Python built-in exceptions.|t  
+TF|div(curl A)=0, curl(grad φ)=0, and curl(curl A)=grad(div A)-∇^2 A are vector calculus identities.|t  
+TF|Euler, Runge-Kutta, Adams-Bashforth, and Crank-Nicolson are methods to solve ODEs.|t  
+TF|dict, defaultdict, OrderedDict, and Counter are Python mapping types.|t  
+TF|pickle, json, marshal, and shelve are Python data serialization modules.|t  
+TF|r, w, a, and x are Python file modes.|t  
+TF|+, -, *, / are Python floating-point operations.|t  
+TF|randint, random, uniform, and choice are methods to generate random numbers in Python.|t  
+TF|try, except, finally, and raise are Python exception handling methods.|t  
+TF|for, while, nested, and infinite are types of Python loops.|t  
+TF|Concatenation, slicing, repetition, and membership test are Python sequence operations.|t  
+TF|Positional, keyword, default, and variable-length are Python argument types.|t  
+TF|** and pow() are Python exponentiation operators.|t  
+TF|%, divmod() are Python modulo operations.|t  
+TF|F=ma, p=mv, Newton’s third law, and Hooke’s law are physical laws of motion.|t  
+TF|Finite difference, Finite element, Spectral methods, and Method of characteristics are methods to solve PDEs.|t  
+TF|List, dict, set, and generator are Python comprehension types.|f  
+TF|format(), f-string, % operator, and Template strings are Python string formatting methods.|t  
+TF|threading, multiprocessing, asyncio, and queue are Python concurrency modules.|t  
+TF|int, float, complex, and decimal are Python number types.|t  
+TF|type(), isinstance(), issubclass(), and callable() are Python type checking functions.|t  
+TF|math, random, sys, and os are Python built-in modules.|t  
+TF|numpy, pandas, scipy, and statistics are Python data analysis modules.|t  
+TF|matplotlib, seaborn, plotly, and bokeh are Python plotting modules.|t  
+TF|class, inheritance, polymorphism, and encapsulation are Python OOP features.|t  
+TF|len(), abs(), type(), and print() are Python built-in functions.|t  
+TF|list, tuple, dict, and set are Python built-in collection types.|t  
+TF|+, -, *, / are Python numeric operators.|t  
+TF|==, !=, >, < are Python comparison operators.|t  
+TF|and, or, not are Python logical operators.|t  
+TF|&, ^, ~, << are Python bitwise operators.|t  
+TF|list, tuple, str, and bytes are Python sequence types.|t  
+TF|dict, defaultdict, OrderedDict, Counter are Python mapping types.|t  
+TF|union, intersection, difference, symmetric_difference are Python set operations.|t  
+TF|IndexError, KeyError, ValueError, ZeroDivisionError are Python built-in exceptions.|t  
+TF|split(), join(), replace(), strip() are Python string methods.|t  
+TF|append(), pop(), sort(), reverse() are Python list methods.|t  
+TF|keys(), values(), get(), items() are Python dictionary methods.|t  
+TF|add(), remove(), union(), intersection() are Python set methods.|t  
+TF|numpy, scipy, math, statistics are Python numerical computing modules.|t  
+TF|numpy, pandas, scipy, statistics are Python data analysis modules.|t  
+TF|matplotlib, seaborn, plotly, bokeh are Python plotting modules.|t  
+TF|threading, multiprocessing, asyncio, queue are Python concurrency modules.|t  
+TF|class, inheritance, polymorphism, encapsulation are Python OOP features.|t  
+TF|len(), abs(), type(), print() are Python built-in functions.|t  
+
+TXT|What is the derivative of x^x?|x^x*(1+ln(x))  
+TXT|Solve for x in e^x = 5|ln(5)  
+TXT|What is the Laplace transform of t^2?|2/s^3  
+TXT|Express Euler’s formula relating complex exponentials|e^(ix) = cos(x) + i*sin(x)  
+TXT|Compute the determinant of [[1,2,3],[0,1,4],[5,6,0]]|-1  
+TXT|Which Python data type cannot be changed after creation?|tuple  
+TXT|What is the gravitational constant G in SI units?|6.67430e-11  
+TXT|Compute the integral of 1/x dx|ln|x||  
+TXT|Write Newton’s second law of motion|F = ma  
+TXT|Which Python keyword defines an asynchronous function?|async  
+TXT|What scalar quantity represents the amount of matter in an object?|mass  
+TXT|What vector quantity represents displacement per unit time?|velocity  
+TXT|Solve the differential equation dy/dx = y|y = Ce^x  
+TXT|Give the formula for the area of a circle|π*r^2  
+TXT|Which database is a document-oriented NoSQL database?|MongoDB  
+TXT|Compute an eigenvalue of [[2,1],[1,2]] corresponding to eigenvector [1,1]|3  
+TXT|Provide the Fourier series coefficient formula for a_n|1/π∫f(x)cos(nx)dx  
+TXT|Give the Pythagorean theorem for a right triangle|a^2 + b^2 = c^2  
+TXT|Compute the Laplace transform of 1|1/s  
+TXT|Which Python data type allows modification of elements?|list  
+TXT|Concatenate a list of strings ['a','b','c'] in Python|abc  
+TXT|Compute the derivative of ln(x^2+1)|2x/(x^2+1)  
+TXT|Express the first law of thermodynamics|ΔU = Q - W  
+TXT|Which Python sequence type allows indexing and slicing?|list  
+TXT|Which Python keyword defines a class?|class  
+TXT|Give Hooke’s law formula|F = k*x  
+TXT|Get the length of a list ['a','b','c'] in Python|3  
+TXT|Which operator represents logical conjunction in Python?|and  
+TXT|Identify the Python numeric type for integer numbers|int  
+TXT|Compute kinetic energy of mass m moving at velocity v|0.5*m*v^2  
+TXT|Which Python exception is raised by 1/0?|ZeroDivisionError  
+TXT|Compute the union of sets {1,2} and {2,3}|{1,2,3}  
+TXT|Retrieve keys from a dictionary {'a':1,'b':2}|['a','b']  
+TXT|Compute potential energy of mass m at height h|m*g*h  
+TXT|Which sorting algorithm divides and merges arrays?|merge sort  
+TXT|Which algorithm finds shortest paths in weighted graphs?|Dijkstra  
+TXT|Solve the quadratic equation ax^2+bx+c=0|x = (-b ± √(b^2 - 4ac))/(2a)  
+TXT|Remove the last element from list [1,2,3] in Python|[1,2]  
+TXT|Compute the absolute value of -7 in Python|7  
+TXT|Which Python module provides array computing functionality?|numpy  
+TXT|Solve y'' + y = 0|y = C1*cos(x) + C2*sin(x)  
+TXT|Which Python library allows symbolic math?|sympy  
+TXT|Which Python keyword handles exceptions?|try  
+TXT|Compute 7.0 / 2.0 in Python|3.5  
+TXT|Compute momentum of mass m moving at velocity v|m*v  
+TXT|Compute the gradient operator of scalar φ|∇φ  
+TXT|Get the next item from an iterator it in Python|next(it)  
+TXT|Compute voltage given current I and resistance R|V = I*R  
+TXT|Which Python type stores key-value pairs?|dict  
+TXT|Wait for a coroutine result in Python|await coroutine()  
+TXT|Compute work done by force F over distance d at angle θ|F*d*cos(θ)  
+TXT|Plot data using Python plotting library|matplotlib.pyplot.plot(x,y)  
+TXT|Run code concurrently using threads in Python|threading.Thread(target=func)  
+TXT|Express the ideal gas law|PV = nRT  
+TXT|Decompose a matrix using LU factorization|LU decomposition  
+TXT|Compute the area of a triangle with base b and height h|0.5*b*h  
+TXT|Check the type of variable x in Python|type(x)  
+TXT|Create a list comprehension that squares numbers 1 to 3|[1,4,9]  
+TXT|Compute Coulomb force between q1 and q2 at distance r|F = k*q1*q2/r^2  
+TXT|Approximate solution of dy/dx = f(x) using Runge-Kutta|y_n+1 = y_n + (k1+2*k2+2*k3+k4)/6  
+TXT|Raise 2 to the 3rd power in Python|8  
+TXT|Compute the volume of a sphere with radius r|4/3*π*r^3  
+TXT|Remove whitespace from string ' hello '|hello|  
+TXT|Convert string '3.14' to float in Python|3.14  
+TXT|Compute gravitational potential energy of mass m at distance r from M|U = -G*m*M/r  
+TXT|Read CSV data using Python library|pandas.read_csv('file.csv')  
+TXT|Compute acceleration from change in velocity Δv over Δt|Δv/Δt  
+TXT|Convert method to static in Python class|@staticmethod  
+TXT|Compute Laplace transform of sin(at)|a/(s^2 + a^2)  
+TXT|Open a file 'data.txt' for reading in Python|open('data.txt','r')  
+TXT|Compute refracted angle using Snell’s law|θ2 = arcsin(n1*sin(θ1)/n2)  
+TXT|Compute intersection of sets {1,2} and {2,3}|{2}  
+TXT|Compute derivative of e^x|e^x  
+TXT|Which Python exception is raised for invalid index?|IndexError  
+TXT|Compute centripetal force for mass m moving at speed v in radius r|m*v^2/r  
+TXT|Add element 5 to set {1,2,3} in Python|{1,2,3,5}  
+TXT|Compute the derivative of sin(x)|cos(x)  
+TXT|Compute the derivative of cos(x)|-sin(x)  
+TXT|Compute the derivative of tan(x)|sec(x)^2  
+TXT|Compute the integral of cos(x) dx|sin(x) + C  
+TXT|Compute the integral of sin(x) dx|-cos(x) + C  
+TXT|Compute the integral of e^x dx|e^x + C  
+TXT|Compute the integral of x^3 dx|x^4/4 + C  
+TXT|Solve 2x + 3 = 7|2  
+TXT|Compute 3^4|81  
+TXT|Compute factorial of 5|120  
+TXT|Compute 10 mod 3|1  
+TXT|Compute floor division of 10 by 3|3  
+TXT|Convert binary 1010 to decimal|10  
+TXT|Convert hexadecimal 1F to decimal|31  
+TXT|Convert decimal 255 to hexadecimal|FF  
+TXT|Compute 2^5|32  
+TXT|Solve ln(x) = 3|x = e^3  
+TXT|Compute the dot product of [1,2,3] and [4,5,6]|32  
+TXT|Compute the cross product of [1,0,0] and [0,1,0]|[0,0,1]  
+TXT|Compute magnitude of vector [3,4]|5  
+TXT|Compute unit vector of [3,4]|[0.6,0.8]  
+TXT|Compute determinant of [[1,2],[3,4]]|-2  
+TXT|Compute trace of [[1,2],[3,4]]|5  
+TXT|Compute rank of [[1,2],[2,4]]|1  
+TXT|Compute inverse of [[1,2],[3,4]]|[[-2,1],[1.5,-0.5]]  
+TXT|Compute eigenvalues of [[2,0],[0,3]]|2,3  
+TXT|Compute eigenvectors of [[2,0],[0,3]]|[1,0],[0,1]  
+TXT|Compute sum of first 100 natural numbers|5050  
+TXT|Compute product of first 5 natural numbers|120  
+TXT|Compute arithmetic series sum of 2+4+6+...+100|2550  
+TXT|Compute geometric series sum of 1+2+4+...+128|255  
+TXT|Compute Fibonacci number F10|55  
+TXT|Compute Fibonacci number F12|144  
+TXT|Compute GCD of 48 and 180|12  
+TXT|Compute LCM of 12 and 18|36  
+TXT|Convert angle 90 degrees to radians|π/2  
+TXT|Convert angle π/4 radians to degrees|45  
+TXT|Compute sin(π/6)|0.5  
+TXT|Compute cos(π/3)|0.5  
+TXT|Compute tan(π/4)|1  
+TXT|Compute cot(π/4)|1  
+TXT|Compute sec(π/3)|2  
+TXT|Compute csc(π/6)|2  
+TXT|Compute natural logarithm of e|1  
+TXT|Compute log base 10 of 1000|3  
+TXT|Compute e^(ln(5))|5  
+TXT|Compute sin^2(π/4) + cos^2(π/4)|1  
+TXT|Compute probability of getting heads in a fair coin toss|0.5  
+TXT|Compute variance of numbers 2,4,6|8/3  
+TXT|Compute standard deviation of numbers 2,4,6|sqrt(8/3)  
+TXT|Compute mean of numbers 2,4,6|4  
+TXT|Compute median of numbers 2,4,6,8|5  
+TXT|Compute mode of numbers 1,2,2,3,3,3|3  
+TXT|Compute sum of angles in a triangle|180  
+TXT|Compute interior angle of regular hexagon|120  
+TXT|Compute exterior angle of regular pentagon|72  
+TXT|Compute slope of line passing through (1,2) and (3,6)|2  
+TXT|Compute y-intercept of line y=2x+3|3  
+TXT|Compute midpoint of points (1,1) and (5,5)|(3,3)  
+TXT|Compute distance between points (0,0) and (3,4)|5  
+TXT|Compute the sum of first 10 odd numbers|100  
+TXT|Compute sum of first 10 even numbers|110  
+TXT|Compute 7 factorial|5040  
+TXT|Compute 8 choose 3|56  
+TXT|Compute 10 choose 2|45  
+TXT|Compute the roots of x^2 - 5x + 6|2,3  
+TXT|Compute the cube root of 27|3  
+TXT|Compute 0.1 + 0.2 in Python|0.30000000000000004  
+TXT|Compute length of string 'Python'|6  
+TXT|Check if 'a' in 'cat'|True  
+TXT|Check if 'z' in 'cat'|False  
+TXT|Convert list [1,2,3] to set|{1,2,3}  
+TXT|Create dictionary with keys 'a','b' and values 1,2|{'a':1,'b':2}  
+TXT|Append 4 to list [1,2,3]|[1,2,3,4]  
+TXT|Reverse string 'hello'|olleh  
+TXT|Sort list [3,1,2]|[1,2,3]  
+TXT|Compute sum([1,2,3,4,5])|15  
+TXT|Compute product([1,2,3,4,5])|120  
+TXT|Check type of 3.14|float  
+TXT|Check type of 42|int  
+TXT|Check type of True|bool  
+TXT|Check type of 'Python'|str  
+TXT|Import the square root function from math module|from math import sqrt  
+TXT|Compute sqrt(16)|4  
+TXT|Compute 2**10|1024  
+TXT|Compute abs(-100)|100  
+TXT|Compute divmod(17,5)|(3,2)  
+TXT|Evaluate 7 % 3|1  
+TXT|Compute floor division 17 // 5|3  
+TXT|Evaluate round(3.14159,2)|3.14  
+TXT|Compute sum of squares of 1,2,3|14  
+TXT|Compute sum of cubes of 1,2,3|36  
+TXT|Evaluate sin(pi/2)|1  
+TXT|Evaluate cos(pi)|-1  
+TXT|Evaluate tan(pi/4)|1  
+TXT|Evaluate e^0|1  
+TXT|Evaluate ln(1)|0  
+TXT|Compute log2(8)|3  
+TXT|Compute log10(100)|2  
+TXT|Compute 0b1010 in decimal|10  
+TXT|Compute 0x1F in decimal|31  
+TXT|Convert 255 decimal to hexadecimal|FF  
+TXT|Compute 2^5|32  
+TXT|Solve ln(x) = 3|x = e^3  
+TXT|Compute dot product of [1,2,3] and [4,5,6]|32  
+TXT|Compute cross product of [1,0,0] and [0,1,0]|[0,0,1]  
+TXT|Compute magnitude of vector [3,4]|5  
+TXT|Compute unit vector of [3,4]|[0.6,0.8]  
+TXT|Compute determinant of [[1,2],[3,4]]|-2  
+TXT|Compute trace of [[1,2],[3,4]]|5  
+TXT|Compute rank of [[1,2],[2,4]]|1  
+TXT|Compute inverse of [[1,2],[3,4]]|[[-2,1],[1.5,-0.5]]  
+TXT|Compute sum of first 100 natural numbers|5050  
+TXT|Compute product of first 5 natural numbers|120  
+TXT|Compute arithmetic series sum of 2+4+6+...+100|2550  
+TXT|Compute geometric series sum of 1+2+4+...+128|255  
+TXT|Compute Fibonacci number F10|55  
+TXT|Compute Fibonacci number F12|144  
+TXT|Compute GCD of 48 and 180|12  
+TXT|Compute LCM of 12 and 18|36  
+TXT|Convert 90 degrees to radians|π/2  
+TXT|Convert π/4 radians to degrees|45  
+TXT|Compute sin(π/6)|0.5  
+TXT|Compute cos(π/3)|0.5  
+TXT|Compute tan(π/4)|1  
+TXT|Compute cot(π/4)|1  
+TXT|Compute sec(π/3)|2  
+TXT|Compute csc(π/6)|2  
+TXT|Compute natural logarithm of e|1  
+TXT|Compute log base 10 of 1000|3  
+TXT|Compute e^(ln(5))|5  
+TXT|Compute sin^2(π/4) + cos^2(π/4)|1  
+TXT|Probability of getting heads on a fair coin|0.5  
+TXT|Variance of numbers 2,4,6|8/3  
+TXT|Standard deviation of numbers 2,4,6|sqrt(8/3)  
+TXT|Mean of numbers 2,4,6|4  
+TXT|Median of numbers 2,4,6,8|5  
+TXT|Mode of numbers 1,2,2,3,3,3|3  
+TXT|Sum of angles in a triangle|180  
+TXT|Interior angle of regular hexagon|120  
+TXT|Exterior angle of regular pentagon|72  
+TXT|Slope of line passing through (1,2) and (3,6)|2  
+TXT|y-intercept of line y=2x+3|3  
+TXT|Midpoint of points (1,1) and (5,5)|(3,3)  
+TXT|Distance between points (0,0) and (3,4)|5  
+
+MS|Which of the following are Python immutable types?|tuple|str|frozenset|list|tuple, str, frozenset  
+MS|Which of the following are vector quantities in physics?|velocity|force|mass|energy|velocity, force  
+MS|Which of the following are scalar quantities in physics?|mass|speed|acceleration|energy|mass, speed, energy  
+MS|Which of the following are Python numeric types?|int|float|complex|list|int, float, complex  
+MS|Which of the following are Python collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of the following are Python sequence types?|list|tuple|str|dict|list, tuple, str  
+MS|Which of the following are Python logical operators?|and|or|not|**|and, or, not  
+MS|Which of the following are Python comparison operators?|==|!=|>|<|==, !=, >, <
+MS|Which of the following are Python bitwise operators?|&|^|~|%|&, ^, ~
+MS|Which of the following are Python string methods?|split|join|replace|pop|split, join, replace  
+MS|Which of the following are Python list methods?|append|pop|sort|strip|append, pop, sort  
+MS|Which of the following are Python dictionary methods?|keys|values|get|items|keys, values, get, items  
+MS|Which of the following are Python set methods?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of the following are Python exception types?|IndexError|KeyError|ValueError|ZeroDivisionError|IndexError, KeyError, ValueError, ZeroDivisionError  
+MS|Which of the following are Python modules for numerical computing?|numpy|scipy|math|os|numpy, scipy, math  
+MS|Which of the following are Python modules for data analysis?|numpy|pandas|scipy|statistics|numpy, pandas, scipy, statistics  
+MS|Which of the following are Python modules for plotting?|matplotlib|seaborn|plotly|bokeh|matplotlib, seaborn, plotly, bokeh  
+MS|Which of the following are Python concurrency modules?|threading|multiprocessing|asyncio|queue|threading, multiprocessing, asyncio, queue  
+MS|Which of the following are Python OOP features?|class|inheritance|polymorphism|encapsulation|inheritance, polymorphism, encapsulation  
+MS|Which of the following are Python decorators?|@staticmethod|@classmethod|@property|@abstractmethod|@staticmethod, @classmethod, @property, @abstractmethod  
+MS|Which of the following are matrix factorization methods?|LU decomposition|QR decomposition|SVD|Fibonacci sequence|LU decomposition, QR decomposition, SVD  
+MS|Which of the following are numerical integration methods?|Trapezoidal|Simpson|Runge-Kutta|Euler method|Trapezoidal, Simpson, Runge-Kutta  
+MS|Which of the following are numerical differentiation methods?|Finite difference|Complex step|Richardson extrapolation|Central difference|Finite difference, Complex step, Richardson extrapolation, Central difference  
+MS|Which of the following are methods to solve linear systems?|Gaussian elimination|LU decomposition|Jacobi iteration|Conjugate gradient|Gaussian elimination, LU decomposition, Jacobi iteration, Conjugate gradient  
+MS|Which of the following are vector calculus operators?|gradient|divergence|curl|Laplacian|gradient, divergence, curl, Laplacian  
+MS|Which of the following are vector calculus identities?|div(curl A)=0|curl(grad φ)=0|curl(curl A)=grad(div A)-∇^2 A|F = ma|div(curl A)=0, curl(grad φ)=0, curl(curl A)=grad(div A)-∇^2 A  
+MS|Which of the following are methods to solve ODEs?|Euler|Runge-Kutta|Adams-Bashforth|Crank-Nicolson|Euler, Runge-Kutta, Adams-Bashforth, Crank-Nicolson  
+MS|Which of the following are fundamental SI units?|meter|kilogram|second|ampere|meter, kilogram, second, ampere  
+MS|Which of the following are Python built-in functions?|len|abs|sum|max|min|len, abs, sum, max, min  
+MS|Which of the following are Python file modes?|r|w|a|x|r, w, a, x  
+MS|Which of the following are Python type checking functions?|type|isinstance|issubclass|callable|type, isinstance, issubclass, callable  
+MS|Which of the following are Python data serialization modules?|pickle|json|marshal|shelve|pickle, json, marshal, shelve  
+MS|Which of the following are Python context manager utilities?|with|contextlib|open|finally|with, contextlib, open, finally  
+MS|Which of the following are Python argument types?|positional|keyword|default|variable-length|positional, keyword, default, variable-length  
+MS|Which of the following are Python exponentiation operators?|**|pow|^|%|**, pow  
+MS|Which of the following are physical laws of motion?|F=ma|p=mv|Newton’s third law|Hooke’s law|F=ma, p=mv, Newton’s third law, Hooke’s law  
+MS|Which of the following are methods to solve PDEs?|Finite difference|Finite element|Spectral methods|Method of characteristics|Finite difference, Finite element, Spectral methods, Method of characteristics  
+MS|Which of the following are Python numeric functions?|abs|round|divmod|pow|abs, round, divmod, pow  
+MS|Which of the following are Python built-in exceptions?|ZeroDivisionError|ImportError|KeyError|MemoryError|ZeroDivisionError, ImportError, KeyError, MemoryError  
+MS|Which of the following are Python sequence operations?|concatenation|slicing|repetition|membership test|concatenation, slicing, repetition, membership test  
+MS|Which of the following are Python list operations?|append|pop|sort|reverse|append, pop, sort, reverse  
+MS|Which of the following are Python dictionary operations?|keys|values|get|items|keys, values, get, items  
+MS|Which of the following are Python set operations?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of the following are Python string formatting methods?|format()|f-string|% operator|Template strings|format(), f-string, % operator, Template strings  
+MS|Which of the following are Python floating-point operations?|+|-|*|/|+,-,*,/  
+MS|Which of the following are Python logical operations?|and|or|not|xor|and, or, not  
+MS|Which of the following are Python built-in collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of the following are Python number types?|int|float|complex|decimal|int, float, complex, decimal  
+MS|Which of the following are Python built-in sequence types?|list|tuple|str|bytes|list, tuple, str, bytes  
+MS|Which of the following are Python iterator methods?|__iter__|__next__|next|yield|__iter__, __next__  
+MS|Which of the following are Python string operations?|split|join|replace|strip|split, join, replace, strip  
+MS|Which of the following are Python file handling modules?|os|shutil|pathlib|tempfile|os, shutil, pathlib, tempfile  
+MS|Which of the following are Python concurrency constructs?|threading|multiprocessing|asyncio|queue|threading, multiprocessing, asyncio, queue  
+MS|Which of the following are Python OOP concepts?|class|inheritance|polymorphism|encapsulation|inheritance, polymorphism, encapsulation  
+MS|Which of the following are Python decorators?|@staticmethod|@classmethod|@property|@abstractmethod|@staticmethod, @classmethod, @property, @abstractmethod  
+MS|Which of the following are Python data visualization libraries?|matplotlib|seaborn|plotly|bokeh|matplotlib, seaborn, plotly, bokeh  
+MS|Which of the following are Python modules for symbolic computation?|sympy|sage|symengine|math|sympy, sage, symengine  
+MS|Which of the following are numerical ODE solvers?|Euler|Runge-Kutta|Adams-Bashforth|Crank-Nicolson|Euler, Runge-Kutta, Adams-Bashforth, Crank-Nicolson  
+MS|Which of the following are Python arithmetic operators?|+|-|*|/|+, -, *, /
+MS|Which of the following are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of the following are vector calculus identities?|div(curl A)=0|curl(grad φ)=0|curl(curl A)=grad(div A)-∇^2 A|grad(div A)=curl|div(curl A)=0, curl(grad φ)=0, curl(curl A)=grad(div A)-∇^2 A  
+MS|Which of the following are Python bitwise operators?|&|^|~|<<|&, ^, ~, <<  
+MS|Which of the following are Python type conversion functions?|int|float|str|bool|int, float, str, bool  
+MS|Which of the following are Python numerical computing libraries?|numpy|scipy|math|decimal|numpy, scipy, math, decimal  
+MS|Which of the following are Python exception handling keywords?|try|except|finally|raise|try, except, finally, raise  
+MS|Which of the following are Python import statements?|import os|from math import sqrt|import numpy as np|from pandas import DataFrame|import os, from math import sqrt, import numpy as np, from pandas import DataFrame  
+MS|Which of the following are Python methods for reading files?|read|readline|readlines|open|read, readline, readlines  
+MS|Which of the following are Python methods for writing files?|write|writelines|flush|close|write, writelines, flush, close  
+MS|Which of the following are Python boolean functions?|all|any|isinstance|issubclass|all, any, isinstance, issubclass  
+MS|Which of the following are Python mathematical functions?|abs|round|divmod|pow|abs, round, divmod, pow  
+MS|Which of the following are Python context manager statements?|with|contextlib|open|finally|with, contextlib, open, finally  
+MS|Which of the following are Python data structures?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of the following are Python comprehension types?|list|dict|set|generator|list, dict, set  

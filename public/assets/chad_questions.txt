@@ -1,0 +1,710 @@
+﻿IMG|Which is the area formula of a circle?|rectangle|triangle|circle|square|circle
+IMG|Which of the units used is NOT an S.I. Unit?|celsius|metre|kilogram|second|celsius
+IMG|Which of these quantities is a scalar?|velocity|force|mass|acceleration|mass
+IMG|Which programming language is mainly used for web development?|python|c++|javascript|assembly|javascript
+IMG|Which of the following is NOT a type of energy?|kinetic|thermal|elastic|speed|speed
+MH|shape to its formula|rectangle|circle|square|triangle|shape_a|shape_b|shape_c|shape_d
+MH|SI unit to its quantity|length|time|current|temperature|metre_a|second_b|ampere_c|kelvin_d
+MH|physics symbol to its meaning|velocity|acceleration|force|time|v_a|a_b|F_c|s_d
+MH|math formula to its name|abc|Emc|Fma|Apir2|pythagoras_a|mass_energy_b|newton2_c|circle_area_d
+MH|logic gate to its symbol|AND|OR|NOT|XOR|logic_and_a|logic_or_b|logic_not_c|logic_xor_d
+
+MC|What is the derivative of x^x?|x^x(1+ln(x))|x^x|x^x*ln(x)|a
+MC|Which sorting algorithm guarantees O(n log n) worst-case performance?|merge sort|quick sort|bubble sort|a
+MC|Which Python feature allows function calls without evaluating immediately?|lambda|def|yield|a
+MC|Which of these is the Laplace transform of f(t)=t^2?|2/s^3|1/s^2|1/s^3|a
+MC|Which of these is mutable in Python?|list|tuple|str|a
+MC|Which physical quantity is a pseudovector?|angular momentum|velocity|force|a
+MC|Which Python data type is hashable?|tuple|list|dict|a
+MC|Which of these algorithms is NOT divide-and-conquer?|heap sort|merge sort|quick sort|a
+MC|Which law governs the motion of charged particles in a magnetic field?|Lorentz force law|Ohm's law|Faraday's law|a
+MC|Which Python keyword defines an asynchronous function?|async|await|def|a
+MC|Which is the correct formula for centripetal acceleration?|v^2/r|v/r|r*v|a
+MC|Which Python method converts a string to uppercase?|upper|capitalize|title|a
+MC|Which data structure is most efficient for implementing LRU cache?|doubly linked list|stack|queue|a
+MC|Which of these is NOT a Python immutable type?|list|tuple|string|a
+MC|Which Python function can combine multiple iterables element-wise?|zip|map|filter|a
+MC|Which of these is a characteristic of an inelastic collision?|kinetic energy not conserved|momentum not conserved|velocity unchanged|a
+MC|Which algorithm efficiently detects cycles in a linked list?|Floyd's Tortoise and Hare|DFS|BFS|a
+MC|What is the time complexity of merge sort in the worst case?|O(n)|O(n log n)|O(n²)|b
+MC|What is the derivative of ln(x)?|1/x|x|ln(x)|a
+MC|Which law states V=IR?|Ohm's law|Faraday's law|Gauss's law|a
+MC|Which data structure uses FIFO ordering?|Stack|Queue|Tree|b
+MC|What is the integral of cos(x)?|sin(x)|−sin(x)|cos(x)|a
+MC|Which sorting algorithm is in-place?|Merge sort|Quick sort|Counting sort|b
+MC|Which particle has no charge?|Electron|Proton|Neutron|c
+MC|Which planet is closest to the Sun?|Earth|Venus|Mercury|c
+MC|Which variable type stores decimals in Python?|int|float|bool|b
+MC|What does SQL stand for?|Structured Query Language|Sequential Query Language|Standard Query Logic|a
+MC|What is the capital of France?|Berlin|Madrid|Paris|c
+MC|Which structure has O(1) average lookup?|Array|Hash table|Queue|b
+MC|What is the chemical symbol for gold?|Au|Ag|Gd|a
+MC|Which force keeps planets in orbit?|Electric|Magnetic|Gravitational|c
+MC|What is 2⁵?|32|16|128|a
+MC|Which gate outputs 1 only when both inputs are 1?|OR|XOR|AND|c
+MC|Which file extension is for Python files?|.exe|.js|.py|c
+MC|Which side of a right triangle is opposite the right angle?|Hypotenuse|Adjacent|Opposite|a
+MC|Which OS is open source?|Windows|macOS|Linux|c
+MC|What is H₂O?|Oxygen|Hydrogen|Water|c
+MC|Which loop runs a fixed number of times?|while|for|if|b
+MC|Which uses copper wires?|Fibre|Ethernet|WiFi|b
+MC|What is √49?|9|7|8|b
+MC|Which is NOT a programming language?|Python|Java|HTML|c
+MC|What is the largest prime below 10?|9|7|5|b
+MC|Which equation is F=ma?|Newton's 1st|Newton's 2nd|Newton's 3rd|b
+MC|Which device stores data permanently?|RAM|Cache|ROM|c
+MC|Which is a mammal?|Shark|Dolphin|Turtle|b
+MC|Which triangle has all sides different?|Isosceles|Equilateral|Scalene|c
+MC|Which protocol secures websites?|HTTP|FTP|HTTPS|c
+MC|Which element has atomic number 1?|Helium|Hydrogen|Lithium|b
+MC|Which memory is fastest?|HDD|SSD|Cache|c
+MC|Which DNA base pairs with adenine?|G|C|T|c
+MC|Which device measures current?|Voltmeter|Ohmmeter|Ammeter|c
+MC|What is 3! ?|6|9|3|a
+MC|Which is a database?|MongoDB|TensorFlow|React|a
+MC|What is the acceleration due to gravity on Earth?|9.8 m/s|9.8 m/s²|10.2 m/s²|b
+MC|Which part of a cell stores genetic information?|Mitochondria|Nucleus|Ribosome|b
+MC|Which protocol sends email?|FTP|SMTP|DNS|b
+MC|Which device displays output?|Mouse|Keyboard|Monitor|c
+MC|Which is a prime number?|21|33|37|c
+MC|Which gas is most abundant in Earth's atmosphere?|Oxygen|Nitrogen|CO₂|b
+MC|Which SQL clause filters rows?|ORDER BY|WHERE|GROUP BY|b
+MC|Which particle has a negative charge?|Proton|Electron|Neutron|b
+MC|What is the SI unit of force?|Joule|Watt|Newton|c
+MC|Which angle is >90°?|Acute|Right|Obtuse|c
+MC|Which programming structure executes only if a condition is true?|loop|switch|if|c
+MC|Which energy is stored in bonds?|Kinetic|Thermal|Chemical|c
+MC|Which is the largest planet?|Earth|Mars|Jupiter|c
+MC|Which operation inserts at end for Python lists?|append()|add()|push()|a
+MC|Which component performs arithmetic?|RAM|Control unit|ALU|c
+MC|Which metal is liquid at room temperature?|Mercury|Iron|Sodium|a
+MC|What is sin(90°)?|0|1|1/2|b
+MC|Which protocol assigns IP addresses?|DNS|DHCP|HTTP|b
+MC|Which number is irrational?|1.5|√3|0.25|b
+MC|Which cloud model = pay-per-use?|Private|Public|Hybrid|b
+MC|Which is frictional force?|Push|Pull|Drag|c
+MC|Which angle is exactly 90°?|Acute|Obtuse|Right|c
+MC|Which language runs in the JVM?|Python|Java|C|b
+MC|Which material conducts electricity?|Rubber|Glass|Copper|c
+MC|Which Python keyword defines a function?|func|def|defn|b
+MC|Which resistor combination increases total resistance?|Parallel|Series|Neither|b
+MC|Which number system is base 2?|Hexadecimal|Binary|Octal|b
+MC|Which wave requires a medium?|Light|Radio|Sound|c
+MC|Which method removes last list element in Python?|pop()|remove()|delete()|a
+MC|Which element is a noble gas?|Oxygen|Nitrogen|Argon|c
+MC|Which frequency is highest?|Radio|Microwave|X-ray|c
+MC|Which branch studies forces on objects?|Biology|Chemistry|Physics|c
+MC|Which SQL keyword sorts results?|GROUP BY|ORDER BY|UPDATE|b
+MC|Which graph traversal uses a queue?|DFS|BFS|Dijkstra|b
+MC|Which is 1 byte?|4 bits|2 bits|8 bits|c
+MC|Which angle is less than 90°?|Right|Obtuse|Acute|c
+MC|Which exception is raised when dividing by zero in Python?|ValueError|TypeError|ZeroDivisionError|c
+MC|What is 7×8?|54|56|63|b
+MC|Which gas do plants absorb?|O₂|N₂|CO₂|c
+MC|Which structure is LIFO?|Queue|Stack|Tree|b
+MC|Which equation gives kinetic energy?|mv|mgh|½mv²|c
+MC|Which device stores charge?|Diode|Resistor|Capacitor|c
+MC|Which operator is logical AND in Python?|&&|and|$$|b
+MC|Which country invented calculus (independently by two people)?|France|Germany|England|c
+MC|Which number is smallest?|0.5|0.05|0.0005|c
+MC|Which programming concept hides internal details?|Polymorphism|Encapsulation|Inheritance|b
+MC|What is the SI unit of pressure?|Pa|N|J|a
+MC|Which triangle has 2 equal sides?|Scalene|Isosceles|Equilateral|b
+MC|Which equation calculates density?|m/v|v/m|ma|a
+MC|Which network model has 7 layers?|TCP/IP|OSI|UDP|b
+MC|Which blood vessels carry blood away from the heart?|Veins|Arteries|Capillaries|b
+MC|Which operation is modulus?|*|/|%|c
+MC|Which unit measures energy?|Joule|Newton|Volt|a
+MC|Which method adds an element at start of Python list?|prepend()|push()|insert(0,x)|c
+MC|Which of these is an algorithm?|8GB RAM|Binary search|SSD|b
+MC|Which element is halogen?|Neon|Argon|Fluorine|c
+MC|Which command shows current directory in Linux?|ls|pwd|cd|b
+MC|Which law describes voltage in a series circuit?|Current law|Voltage law|Ampere’s law|b
+MC|Which unit measures frequency?|Hz|N|J|a
+MC|Which is the longest wavelength?|X-ray|Ultraviolet|Radio|c
+MC|Which number is even?|37|51|92|c
+MC|Which part of computer is brain?|RAM|CPU|ROM|b
+MC|What is 4³?|12|24|64|c
+MC|Which method sorts a list in Python?|sort()|sortedList()|arrange()|a
+
+TF|The derivative of ln(x) is 1/x.|t  
+TF|Euler’s formula states e^(iπ) + 1 = 0.|t  
+TF|Merge sort has O(n^2) worst-case complexity.|f  
+TF|A Python tuple is mutable.|f  
+TF|Momentum is a vector quantity.|t  
+TF|The Laplace transform of 1 is 1/s.|t  
+TF|In an elastic collision, kinetic energy is conserved.|t  
+TF|Python dictionaries can use lists as keys.|f  
+TF|Heap sort is a divide-and-conquer algorithm.|t  
+TF|The speed of light is a scalar quantity.|t  
+TF|Fibonacci sequence can be generated using recursion.|t  
+TF|The determinant of a 2x2 matrix [[a,b],[c,d]] is ad-bc.|t  
+TF|Newton’s first law explains the motion of planets.|f  
+TF|Python’s “yield” keyword defines a generator.|t  
+TF|Angular momentum is a scalar quantity.|f  
+TF|Binary search requires a sorted list.|t  
+TF|Quick sort is an in-place sorting algorithm.|t  
+TF|The gravitational constant G is dimensionless.|f  
+TF|Python’s “is” operator checks object identity.|t  
+TF|Centripetal acceleration formula is a = v^2/r.|t  
+TF|Python lists are immutable.|f  
+TF|Force is a scalar quantity.|f  
+TF|The integral of e^x is e^x + c.|t  
+TF|Pascal’s law relates pressure and volume.|f  
+TF|The “map” function applies a function to all elements of an iterable.|t  
+TF|Binary trees are linear data structures.|f  
+TF|A stack is a Last-In-First-Out (LIFO) data structure.|t  
+TF|Python’s “append” method returns a new list.|f  
+TF|The unit of electric current is the ampere.|t  
+TF|Work done is calculated as W = F * d.|t  
+TF|Python “pop” removes an element at a given index.|t  
+TF|In Python, strings are mutable.|f  
+TF|The Laplace transform of t^n is n!/s^(n+1).|t  
+TF|Momentum is always conserved in inelastic collisions.|t  
+TF|The determinant of a matrix is always positive.|f  
+TF|Python’s “filter” returns a new iterable based on a condition.|t  
+TF|Energy is a scalar quantity.|t  
+TF|Velocity is a scalar quantity.|f  
+TF|The integral of 1/x dx is ln|x| + c.|t  
+TF|DFS can find shortest paths in unweighted graphs.|f  
+TF|Python’s “set” type does not allow duplicate elements.|t  
+TF|Python functions defined with “lambda” can have multiple statements.|f  
+TF|In a parallel circuit, voltage is the same across all components.|t  
+TF|Acceleration is a scalar quantity.|f  
+TF|Python’s “join” method concatenates elements of a list into a string.|t  
+TF|Newton’s third law states F = ma.|f  
+TF|Python dictionaries preserve insertion order in versions 3.7+.|t  
+TF|In quick sort, the pivot is always the first element.|f  
+TF|Kinetic energy is proportional to the square of velocity.|t  
+TF|A Python “frozenset” is mutable.|f  
+TF|In BFS, nodes are visited in depth-first order.|f  
+TF|Python’s “break” statement exits the nearest loop.|t  
+TF|Ohm’s law states V = I * R.|t  
+TF|Python “strip” removes whitespace from both ends of a string.|t  
+TF|Angular velocity is a scalar quantity.|f  
+TF|The standard deviation can never be negative.|t  
+TF|The Fourier transform converts a time-domain signal to the frequency domain.|t  
+TF|Python’s “sort” method returns a new list.|f  
+TF|Mass is a vector quantity.|f  
+TF|The “continue” statement in Python skips to the next iteration of a loop.|t  
+TF|The speed of light varies depending on vacuum conditions.|f  
+TF|Python “pop” without arguments removes the last element of a list.|t  
+TF|Power is the derivative of work with respect to time.|t  
+TF|Python strings support the “replace” method.|t  
+TF|Temperature is a vector quantity.|f  
+TF|Newton’s law of universal gravitation is inversely proportional to the square of distance.|t  
+TF|The Fibonacci sequence starts with 1 and 2.|f  
+TF|Python “enumerate” returns index-value pairs for iterables.|t  
+TF|The Pascal unit is a unit of pressure.|t  
+TF|Binary search has O(log n) time complexity.|t  
+TF|Python dictionaries can have duplicate keys.|f  
+TF|Elastic potential energy is stored in a compressed spring.|t  
+TF|Acceleration due to gravity on Earth is approximately 9.8 m/s^2.|t  
+TF|The Laplace transform of e^(at) is 1/(s-a).|t  
+TF|Python “del” can remove an item from a list.|t  
+TF|Python tuples can be used as dictionary keys.|t  
+TF|Velocity is measured in kg.|f  
+TF|Python’s “abs” function returns the absolute value of a number.|t  
+TF|Python lists can contain elements of different types.|t  
+TF|Angular momentum is conserved in a closed system.|t  
+TF|The “math” module in Python provides trigonometric functions.|t  
+TF|Python “range” returns a list in all versions.|f  
+TF|Ohm’s law relates current, voltage, and resistance.|t  
+TF|Python’s “id” function returns a unique identifier for an object.|t  
+TF|Elastic collisions conserve both momentum and kinetic energy.|t  
+TF|In a series circuit, current is the same through all components.|t  
+TF|Python sets maintain order of elements.|f  
+TF|The acceleration of an object is proportional to net force applied.|t  
+TF|Python dictionaries can be nested.|t  
+TF|Pascal’s law applies to fluids at rest.|t  
+TF|Velocity is defined as displacement over time.|t  
+TF|Python’s “zip” function combines iterables element-wise.|t  
+TF|Entropy can decrease in a closed system.|f  
+TF|Python “type” returns the data type of an object.|t  
+TF|Newton’s second law is F = m * a.|t  
+TF|Python supports operator overloading.|t  
+TF|The “math.sqrt” function returns the square root of a number.|t  
+TF|Electric charge is a scalar quantity.|t  
+TF|Python supports multiple inheritance.|t  
+TF|Binary trees always have two children per node.|f  
+TF|Python’s “format” method can format numbers and strings.|t  
+TF|The speed of sound is faster in air than in steel.|f  
+TF|Python lists are zero-indexed.|t  
+TF|Potential energy can be negative depending on reference point.|t  
+TF|Python supports anonymous functions using “lambda”.|t  
+TF|The gradient of a scalar field is a vector field.|t  
+TF|Python’s “any” function returns True if all elements are true.|f  
+TF|The unit of work is joule.|t  
+TF|Python supports nested functions.|t  
+TF|Acceleration due to gravity varies with altitude.|t  
+TF|Python dictionaries are ordered in version 3.6.|f  
+TF|Voltage is measured in volts.|t  
+TF|Python “isdigit” checks if a string is numeric.|t  
+TF|Momentum and impulse are vector quantities.|t  
+TF|Python “set” supports intersection and union operations.|t  
+TF|Python supports keyword arguments in functions.|t  
+TF|The derivative of sin(x) is cos(x).|t  
+TF|Python “isinstance” checks the type of an object.|t  
+TF|Entropy in an isolated system never decreases.|t  
+TF|The Laplace transform of sin(at) is a/(s^2 + a^2).|t  
+TF|Python “copy” creates a deep copy by default.|f  
+TF|The coefficient of friction is dimensionless.|t  
+TF|Python supports variable-length argument lists with *args.|t  
+TF|Binary search requires O(n) comparisons on average.|f  
+TF|Python supports multi-line comments using triple quotes.|t  
+TF|Pascal’s law is used in hydraulic systems.|t  
+TF|Python lists support slicing.|t  
+TF|The Fourier series represents periodic functions as sums of sines and cosines.|t  
+TF|Python supports object-oriented programming.|t  
+TF|The Laplace transform converts differential equations into algebraic equations.|t  
+TF|Python “ord” returns the Unicode code of a character.|t  
+TF|Angular acceleration is a vector quantity.|t  
+TF|Python “round” rounds numbers to the nearest integer by default.|t  
+TF|In a vacuum, all objects fall with the same acceleration.|t  
+TF|Python supports decorators to modify functions.|t  
+TF|The unit of force is newton.|t  
+TF|Python “int” can convert strings to integers if valid.|t  
+TF|Binary search works correctly only on sorted lists.|t  
+TF|Python supports list comprehensions.|t  
+TF|In an isothermal process, temperature remains constant.|t  
+TF|Python supports multiple assignment in a single statement.|t  
+TF|The second derivative of position is acceleration.|t  
+TF|Python “max” returns the largest element of an iterable.|t  
+TF|The speed of light in a vacuum is exactly 3×10^8 m/s.|t  
+TF|Python supports nested dictionaries.|t  
+TF|Python “eval” executes a string as Python code.|t  
+TF|Entropy is a measure of disorder.|t  
+TF|Python supports boolean operators “and”, “or”, and “not”.|t  
+TF|In Python, “None” is equivalent to zero.|f  
+TF|Pascal is a unit of pressure in the SI system.|t  
+TF|Python “min” returns the smallest element in an iterable.|t  
+TF|The determinant of an identity matrix is always 1.|t  
+TF|Python supports set comprehension.|t  
+TF|Newton’s law of cooling describes heat loss proportional to temperature difference.|t  
+TF|Python supports default argument values in functions.|t  
+TF|The gravitational force decreases with the square of distance.|t  
+TF|Python supports negative indexing in sequences.|t  
+TF|Power is the rate at which work is done.|t  
+TF|Python “open” function is used to read and write files.|t  
+TF|Angular momentum depends on the point of rotation.|t  
+TF|Python “split” returns a list of substrings.|t  
+TF|The Laplace transform of cos(at) is s/(s^2 + a^2).|t  
+TF|Python supports multiple return values from functions.|t  
+TF|The unit of electric resistance is ohm.|t  
+TF|Python “replace” can substitute one substring for another.|t  
+TF|Velocity is a vector quantity.|t  
+TF|Python supports mutable default arguments.|t  
+TF|The derivative of e^x is e^x.|t  
+TF|Python “in” checks membership in iterables.|t  
+TF|The area under a velocity-time graph represents displacement.|t  
+TF|Python “bool” converts values to True or False.|t  
+TF|Pascal’s law is valid only for incompressible fluids.|t  
+TF|Python supports object attributes and methods.|t  
+TF|The unit of magnetic flux is weber.|t  
+TF|Python “set” cannot contain other sets as elements.|t  
+TF|Momentum equals mass times velocity.|t  
+TF|Python “is” and “==” are the same operator.|f  
+TF|Entropy can be defined in statistical terms using microstates.|t  
+TF|Python supports slicing for lists, tuples, and strings.|t  
+TF|Hooke’s law relates force and displacement in springs.|t  
+TF|Python “all” returns True only if all elements are true.|t  
+TF|The speed of sound is higher in solids than in air.|t  
+TF|Python supports multiple inheritance in classes.|t  
+TF|The derivative of cos(x) is -sin(x).|t  
+TF|Python’s “format” method allows string interpolation.|t  
+TF|Acceleration is the derivative of velocity with respect to time.|t  
+TF|Python supports floating-point arithmetic using “float”.|t  
+TF|Potential energy in gravity is m*g*h.|t  
+TF|Python supports generator expressions.|t  
+TF|The Laplace transform simplifies solving differential equations.|t  
+TF|Python “enumerate” returns index and value pairs.|t  
+TF|Newton’s second law: F = m * a.|t  
+TF|Python supports context managers using “with” statements.|t  
+TF|The unit of electric capacitance is farad.|t  
+TF|Python “set” supports difference operation.|t  
+TF|Impulse equals the change in momentum.|t  
+TF|Python supports variable-length keyword arguments using **kwargs.|t  
+TF|Python lists are mutable sequences.|t  
+TF|The derivative of tan(x) is sec^2(x).|t  
+TF|Python “isinstance” can check for multiple types.|t  
+TF|The unit of energy is joule.|t  
+TF|Python “abs” works for integers, floats, and complex numbers.|t  
+TF|Python supports conditional expressions using “if” and “else”.|t  
+TF|Newton’s third law: action equals reaction.|t  
+TF|Python supports anonymous functions via “lambda”.|t  
+TF|The unit of power is watt.|t  
+TF|Python “ord” returns an integer Unicode code.|t  
+TF|In Python, True evaluates to 1 and False to 0.|t  
+TF|Python “round” can specify number of decimal places.|t  
+TF|Angular acceleration is defined as the derivative of angular velocity.|t  
+TF|Python “max” and “min” work on numbers and strings.|t  
+TF|Python supports unpacking sequences into variables.|t  
+TF|The unit of magnetic field strength is tesla.|t  
+TF|Python supports list comprehensions with conditionals.|t  
+TF|The gradient of a scalar field points in the direction of greatest increase.|t  
+TF|Python “any” returns True if any element is true.|t  
+TF|The derivative of ln(x) is 1/x.|t  
+TF|Python supports multiple assignment in a single statement.|t  
+TF|Python supports nested functions.|t  
+TF|Newton’s law of universal gravitation: F = G*m1*m2/r^2.|t  
+TF|Python supports exception handling using try-except-finally.|t  
+TF|In Python, tuples can contain mutable elements.|t  
+TF|The speed of light is finite.|t  
+TF|Python “is” checks object identity, not equality.|t  
+TF|Entropy of an isolated system never decreases.|t  
+TF|Python “eval” executes a string as code.|t  
+TF|Work done by a conservative force is path-independent.|t  
+TF|Python “copy” creates shallow copies by default.|t  
+TF|The Laplace transform of t^n is n!/s^(n+1).|t  
+TF|Python supports set comprehension.|t  
+TF|Python “isdigit” returns True if a string contains only digits.|t  
+TF|Python supports generators using “yield”.|t  
+TF|The unit of frequency is hertz.|t  
+TF|Python “type” returns the type of an object.|t  
+TF|Pascal is the SI unit of pressure.|t  
+TF|Python supports default argument values.|t  
+TF|Binary search requires O(log n) comparisons in sorted lists.|t  
+TF|Python “open” opens files for reading and writing.|t  
+TF|Python supports negative indices for sequences.|t  
+TF|Python “set” cannot contain mutable sets as elements.|t  
+TF|Acceleration is the second derivative of position.|t  
+TF|Python supports multiple return values from functions.|t  
+TF|Python supports operator overloading.|t  
+TF|Python lists are zero-indexed.|t  
+TF|Python supports slicing of sequences.|t  
+TF|Python supports boolean operators “and”, “or”, “not”.|t  
+TF|Python supports multiple inheritance.|t  
+TF|The area under a velocity-time graph equals displacement.|t  
+TF|Python “split” returns a list of substrings.|t  
+TF|Python “join” concatenates strings from an iterable.|t  
+TF|Python “replace” substitutes one substring for another.|t  
+TF|Python supports context managers.|t  
+TF|Python “round” rounds numbers to specified decimal places.|t  
+TF|Python “enumerate” returns index and value.|t  
+TF|Python supports list comprehensions with conditions.|t  
+TF|Python “max” and “min” work on iterables.|t  
+TF|Python supports unpacking sequences.|t  
+TF|Python supports nested dictionaries.|t  
+TF|Python supports floating-point arithmetic.|t  
+TF|Python supports variable-length argument lists.|t  
+TF|Python supports variable-length keyword arguments.|t  
+TF|Python supports anonymous functions using “lambda”.|t  
+TF|Python supports multi-line comments with triple quotes.|t  
+TF|Python supports slicing for strings, lists, and tuples.|t  
+TF|Python “any” returns True if any element is True.|t  
+TF|Python “all” returns True only if all elements are True.|t  
+TF|Python “id” returns a unique identifier for an object.|t  
+TF|Python “isinstance” can check multiple types.|t  
+TF|Python dictionaries are ordered in Python 3.7+.|t  
+TF|Python supports object-oriented programming.|t  
+TF|Python supports mutable default arguments.|t  
+TF|Python supports exceptions and error handling.|t  
+TF|Python supports generator expressions.|t  
+TF|Python “ord” returns integer Unicode code of a character.|t  
+TF|Python supports keyword arguments in functions.|t  
+TF|Python “abs” works for integers, floats, and complex numbers.|t  
+TF|Python “type” can return the class type of an object.|t  
+TF|Python supports conditional expressions using “if-else”.|t  
+TF|Python supports nested loops.|t  
+TF|Python supports function decorators.|t  
+TF|Python supports slicing of lists, tuples, and strings.|t  
+TF|Python supports dictionary comprehension.|t  
+TF|Python supports set comprehension.|t  
+TF|Python supports variable unpacking.|t  
+TF|Python supports multiple assignment.|t  
+TF|Python supports exception handling with try-except.|t  
+TF|Python supports context managers using “with”.|t  
+TF|Python supports floating-point arithmetic using “float”.|t  
+TF|Python supports object attributes and methods.|t  
+TF|Python supports operator overloading in classes.|t  
+TF|Python supports multiple inheritance.|t  
+TF|Python supports object identity comparison using “is”.|t  
+
+TXT|What is the derivative of x^x?|x^x*(1+ln(x))  
+TXT|What is the integral of e^(2x) dx?|1/2*e^(2x)+c  
+TXT|What is the formula for centripetal acceleration?|v^2/r  
+TXT|Which Python keyword defines a generator function?|yield  
+TXT|What is Newton’s second law of motion?|F=ma  
+TXT|What is the Laplace transform of 1?|1/s  
+TXT|What data structure does a stack use?|LIFO  
+TXT|What is the unit of electric current?|ampere  
+TXT|What is the formula for kinetic energy?|1/2*m*v^2  
+TXT|Which Python method adds an element to the end of a list?|append  
+TXT|What is the derivative of sin(x)?|cos(x)  
+TXT|What is the formula for gravitational force?|F=G*m1*m2/r^2  
+TXT|Which Python function merges multiple iterables element-wise?|zip  
+TXT|What is the determinant of a 2x2 matrix [[a,b],[c,d]]?|ad-bc  
+TXT|Which Python keyword defines asynchronous functions?|async  
+TXT|Which Python keyword is used to stop a loop prematurely?|break  
+TXT|What is the formula for work done?|W=F*d  
+TXT|What is the Laplace transform of t?|1/s^2  
+TXT|What physical quantity is measured in joules?|energy  
+TXT|Which Python method removes an element at a specific index?|pop  
+TXT|What is the formula for momentum?|p=m*v  
+TXT|Which Python function returns the absolute value?|abs  
+TXT|What is the formula for potential energy near Earth's surface?|m*g*h  
+TXT|Which data structure is used to implement recursion efficiently?|stack  
+TXT|What is the derivative of ln(x)?|1/x  
+TXT|Which Python keyword defines a function?|def  
+TXT|What is the formula for angular momentum?|L=r×p  
+TXT|Which Python method converts a string to uppercase?|upper  
+TXT|What is the unit of electric resistance?|ohm  
+TXT|Which physical law describes action-reaction pairs?|Newton's third law  
+TXT|What is the formula for electric power?|P=V*I  
+TXT|Which Python function applies a function to all items in an iterable?|map  
+TXT|What is the derivative of e^x?|e^x  
+TXT|Which algorithm efficiently detects cycles in a linked list?|Floyd's cycle detection  
+TXT|Which Python type is immutable and hashable?|tuple  
+TXT|What is the unit of magnetic flux?|weber  
+TXT|Which Python method concatenates a list of strings?|join  
+TXT|Which sorting algorithm has worst-case complexity O(n log n)?|merge sort  
+TXT|What is the formula for elastic potential energy in a spring?|1/2*k*x^2  
+TXT|Which Python method removes all elements from a list?|clear  
+TXT|Which Python keyword is used to define classes?|class  
+TXT|Which Python function returns the length of an iterable?|len  
+TXT|What is the formula for angular acceleration?|α=Δω/Δt  
+TXT|Which Python keyword checks membership in iterables?|in  
+TXT|Which Python method splits a string into substrings?|split  
+TXT|What is the unit of frequency?|hertz  
+TXT|Which Python function converts a string to an integer?|int  
+TXT|What is the integral of 1/x dx?|ln|x|+c  
+TXT|Which Python function executes a string as code?|eval  
+TXT|What is the formula for impulse?|J=F*t  
+TXT|Which Python method removes an element by value from a list?|remove  
+TXT|Which Python data type is mutable, unordered, and contains unique elements?|set  
+TXT|Which Python function returns a Boolean indicating if all elements are true?|all  
+TXT|Which Python function returns a Boolean indicating if any element is true?|any  
+TXT|Which Python keyword handles exceptions?|try  
+TXT|Which Python keyword handles the cleanup code in exceptions?|finally  
+TXT|Which Python keyword executes code when an exception occurs?|except  
+TXT|What is the formula for the period of a simple pendulum?|T=2π*√(L/g)  
+TXT|Which Python function returns the type of an object?|type  
+TXT|Which Python function returns a unique identifier for an object?|id  
+TXT|Which Python function returns Unicode code of a character?|ord  
+TXT|Which Python function returns a character from its Unicode code?|chr  
+TXT|Which Python method replaces a substring with another substring?|replace  
+TXT|What is the formula for the period of a mass-spring system?|T=2π*√(m/k)  
+TXT|Which Python function rounds a number?|round  
+TXT|Which Python keyword defines anonymous functions?|lambda  
+TXT|Which Python operator performs exponentiation?|**  
+TXT|Which Python operator performs floor division?|//  
+TXT|Which Python operator returns remainder?|%  
+TXT|Which Python operator performs logical AND?|and  
+TXT|Which Python operator performs logical OR?|or  
+TXT|Which Python operator performs logical NOT?|not  
+TXT|Which Python keyword suspends coroutine execution?|await  
+TXT|Which Python keyword defines asynchronous generator?|async def  
+TXT|Which Python data type stores key-value pairs?|dict  
+TXT|Which Python method returns all keys from a dictionary?|keys  
+TXT|Which Python method returns all values from a dictionary?|values  
+TXT|Which Python method returns key-value pairs from a dictionary?|items  
+TXT|Which Python data type stores ordered, immutable elements?|tuple  
+TXT|Which Python data type stores ordered, mutable elements?|list  
+TXT|Which Python function converts a string to a floating-point number?|float  
+TXT|Which Python function converts a number to string?|str  
+TXT|Which Python function converts a number to hexadecimal?|hex  
+TXT|Which Python function converts a number to binary?|bin  
+TXT|Which Python function converts a number to octal?|oct  
+TXT|Which Python operator checks equality?|==  
+TXT|Which Python operator checks inequality|!=  
+TXT|Which Python operator checks greater than?|>  
+TXT|Which Python operator checks less than?|<  
+TXT|Which Python operator checks greater than or equal?|>=  
+TXT|Which Python operator checks less than or equal?|<=  
+TXT|Which Python function applies a function cumulatively to items?|reduce  
+TXT|Which Python module provides high-precision decimal arithmetic?|decimal  
+TXT|Which Python module provides symbolic mathematics?|sympy  
+TXT|Which Python module provides random number generation?|random  
+TXT|Which Python module provides advanced math functions?|math  
+TXT|Which Python module provides array operations?|array  
+TXT|Which Python module provides scientific computing support?|numpy  
+TXT|Which Python module provides data manipulation and analysis?|pandas  
+TXT|Which Python module provides plotting functions?|matplotlib  
+TXT|Which Python module provides 3D plotting support?|mpl_toolkits.mplot3d  
+TXT|Which Python module provides numerical integration?|scipy.integrate  
+TXT|Which Python module provides signal processing functions?|scipy.signal  
+TXT|Which Python module provides linear algebra support?|numpy.linalg  
+TXT|Which Python module provides statistical functions?|statistics  
+TXT|Which Python module allows working with dates and times?|datetime  
+TXT|Which Python module allows reading CSV files?|csv  
+TXT|Which Python module allows working with JSON data?|json  
+TXT|Which Python module allows working with XML data?|xml  
+TXT|Which Python module allows working with regular expressions?|re  
+TXT|Which Python module allows threading?|threading  
+TXT|Which Python module allows multiprocessing?|multiprocessing  
+TXT|Which Python module allows asynchronous IO?|asyncio  
+TXT|Which Python module allows unit testing?|unittest  
+TXT|Which Python module allows profiling code?|cProfile  
+TXT|Which Python module allows logging?|logging  
+TXT|Which Python module provides network communication support?|socket  
+TXT|Which Python module allows working with HTTP requests?|http  
+TXT|Which Python module allows parsing URLs?|urllib  
+TXT|Which Python module allows creating temporary files?|tempfile  
+TXT|Which Python module allows data serialization?|pickle  
+TXT|Which Python module allows working with threads and locks?|threading  
+TXT|Which Python module provides subprocess management?|subprocess  
+TXT|Which Python module provides file system operations?|os  
+TXT|Which Python module provides path manipulation?|pathlib  
+TXT|Which Python module provides compression support?|zipfile  
+TXT|Which Python module provides cryptography support?|hashlib  
+TXT|Which Python module provides email handling?|email  
+TXT|Which Python module provides XML-RPC client and server?|xmlrpc  
+TXT|Which Python module allows working with databases?|sqlite3  
+TXT|Which Python module provides CSV reading and writing?|csv  
+TXT|Which Python module provides structured logging?|logging  
+TXT|Which Python module provides mathematical constants?|math  
+TXT|Which Python module allows decimal arithmetic with exact precision?|decimal  
+TXT|Which Python module allows symbolic equation solving?|sympy  
+TXT|Which Python module allows regular expression matching?|re  
+TXT|Which Python module allows inspecting objects?|inspect  
+TXT|Which Python module provides benchmarking tools?|timeit  
+TXT|Which Python module provides thread-safe queues?|queue  
+TXT|Which Python module allows JSON encoding and decoding?|json  
+TXT|Which Python module allows XML parsing?|xml.etree.ElementTree  
+TXT|Which Python module provides context manager support?|contextlib  
+TXT|Which Python module allows implementing coroutines?|asyncio  
+TXT|Which Python module allows interprocess communication?|multiprocessing  
+TXT|Which Python module allows working with fractions?|fractions  
+TXT|Which Python module provides system-specific parameters and functions?|sys  
+TXT|Which Python module provides environment variables access?|os.environ  
+TXT|Which Python module allows creating temporary directories?|tempfile  
+TXT|Which Python module allows handling HTTP servers?|http.server  
+TXT|Which Python module provides URL handling?|urllib.parse
+TXT|Which Python module provides TCP and UDP communication?|socket  
+TXT|Which Python module allows secure hash computation?|hashlib  
+TXT|Which Python module provides random selection of elements?|random  
+TXT|Which Python module allows unit testing?|unittest  
+TXT|Which Python module allows code profiling?|cProfile  
+TXT|Which Python module provides object serialization?|pickle  
+TXT|Which Python module allows logging events?|logging  
+TXT|Which Python module provides support for dates and times?|datetime  
+TXT|Which Python module provides math functions?|math  
+TXT|Which Python module allows working with arrays?|array  
+TXT|Which Python module provides numerical computing?|numpy  
+TXT|Which Python module provides dataframes?|pandas  
+TXT|Which Python module provides plotting support?|matplotlib  
+TXT|Which Python module provides symbolic mathematics?|sympy  
+TXT|Which Python module provides scientific computing tools?|scipy  
+TXT|Which Python module allows handling exceptions?|traceback  
+TXT|Which Python module allows working with memory views?|memoryview  
+TXT|Which Python module provides advanced collection types?|collections  
+TXT|Which Python module provides high-level file operations?|shutil  
+TXT|Which Python module provides date arithmetic?|datetime  
+TXT|Which Python module allows generating random numbers?|random  
+TXT|Which Python module provides logging support?|logging  
+TXT|Which Python module allows unit testing?|unittest  
+TXT|Which Python module allows multi-threading?|threading  
+TXT|Which Python module allows multi-processing?|multiprocessing  
+TXT|Which Python module allows asynchronous IO?|asyncio  
+TXT|Which Python module allows subprocess management?|subprocess  
+TXT|Which Python module allows file compression?|zipfile  
+TXT|Which Python module allows URL handling?|urllib  
+TXT|Which Python module allows XML parsing?|xml  
+TXT|Which Python module provides cryptography support?|hashlib  
+TXT|Which Python module allows working with CSV?|csv  
+TXT|Which Python module allows working with JSON?|json  
+TXT|Which Python module allows symbolic equation solving?|sympy  
+TXT|Which Python module allows regular expression matching?|re  
+TXT|Which Python module allows inspection of objects?|inspect  
+TXT|Which Python module allows benchmarking code?|timeit  
+TXT|Which Python module allows thread-safe queues?|queue  
+TXT|Which Python module allows context manager creation?|contextlib  
+TXT|Which Python module allows fractions arithmetic?|fractions  
+TXT|Which Python module provides system-specific functions?|sys  
+TXT|Which Python module allows environment variable access?|os.environ  
+TXT|Which Python module allows temporary file creation?|tempfile  
+TXT|Which Python module allows HTTP server creation?|http.server  
+TXT|Which Python module allows URL parsing?|urllib.parse  
+TXT|Which Python module allows socket communication?|socket  
+TXT|Which Python module allows hash computation?|hashlib  
+TXT|Which Python module provides random selections?|random  
+TXT|Which Python module allows profiling code?|cProfile  
+TXT|Which Python module allows serializing objects?|pickle  
+TXT|Which Python module allows logging events?|logging  
+TXT|Which Python module allows date and time handling?|datetime  
+
+MS|Which of these Python data types are mutable?|list|dict|set|tuple|list, dict, set  
+MS|Which of these Python types are immutable?|tuple|string|frozenset|bytes|tuple, string, frozenset, bytes  
+MS|Which of these are vector quantities in physics?|velocity|acceleration|force|momentum|velocity, acceleration, force, momentum  
+MS|Which of these are scalar quantities in physics?|mass|temperature|speed|energy|mass, temperature, speed, energy  
+MS|Which of these are Python sequence types?|list|tuple|str|bytes|list, tuple, str, bytes  
+MS|Which of these are fundamental SI quantities?|mass|time|temperature|current|mass, time, temperature, current  
+MS|Which of these are sorting algorithms?|merge sort|quick sort|heap sort|bubble sort|merge sort, quick sort, heap sort, bubble sort  
+MS|Which of these are search algorithms?|linear search|binary search|DFS|BFS|linear search, binary search, DFS, BFS  
+MS|Which of these are Python loop control statements?|break|continue|pass|return|break, continue, pass, return  
+MS|Which of these are Python string methods?|split|join|replace|strip|split, join, replace, strip  
+MS|Which of these are Python list methods?|append|pop|sort|reverse|append, pop, sort, reverse  
+MS|Which of these are Python dictionary methods?|keys|values|get|items|keys, values, get, items  
+MS|Which of these are Python set methods?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of these are OOP principles?|inheritance|polymorphism|abstraction|encapsulation|inheritance, polymorphism, abstraction, encapsulation  
+MS|Which of these are types of angles?|acute|right|obtuse|reflex|acute, right, obtuse, reflex  
+MS|Which of these are types of computer memory?|RAM|ROM|Cache|Register|RAM, ROM, Cache, Register  
+MS|Which of these are types of computer networks?|LAN|WAN|MAN|PAN|LAN, WAN, MAN, PAN  
+MS|Which of these are fundamental physical constants?|c|h|G|e|c, h, G, e  
+MS|Which of these are Python numeric types?|int|float|complex|decimal|int, float, complex, decimal  
+MS|Which of these Python operators are arithmetic?|+|-|*|/|+, -, *, /  
+MS|Which of these Python operators are comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these Python operators are logical?|and|or|not|xor|and, or, not  
+MS|Which of these Python keywords define functions?|def|lambda|async|await|def, lambda, async, await  
+MS|Which of these Python keywords define classes?|class|type|metaclass|object|class, type, metaclass, object  
+MS|Which of these are database management systems?|MySQL|PostgreSQL|MongoDB|Oracle|MySQL, PostgreSQL, MongoDB, Oracle  
+MS|Which of these are non-relational databases?|MongoDB|Cassandra|Redis|MySQL|MongoDB, Cassandra, Redis  
+MS|Which of these are Python built-in collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of these are types of Python loops?|for|while|nested|infinite|for, while, nested, infinite  
+MS|Which of these are Python exception types?|IndexError|KeyError|ValueError|ZeroDivisionError|IndexError, KeyError, ValueError, ZeroDivisionError  
+MS|Which of these are Python sequence types?|list|tuple|str|bytes|list, tuple, str, bytes  
+MS|Which of these are Python immutable types?|tuple|string|frozenset|bytes|tuple, string, frozenset, bytes  
+MS|Which of these are Python mutable types?|list|dict|set|bytearray|list, dict, set, bytearray  
+MS|Which of these are Python built-in functions?|len|abs|type|print|len, abs, type, print  
+MS|Which of these are Python numeric operators?|+|-|*|/|+, -, *, /  
+MS|Which of these are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these are Python logical operators?|and|or|not|xor|and, or, not  
+MS|Which of these are Python string methods?|split|join|replace|strip|split, join, replace, strip  
+MS|Which of these are Python list methods?|append|pop|sort|reverse|append, pop, sort, reverse  
+MS|Which of these are Python dictionary methods?|keys|values|get|items|keys, values, get, items  
+MS|Which of these are Python set methods?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of these are sorting algorithms?|heap sort|merge sort|quick sort|bubble sort|heap sort, merge sort, quick sort, bubble sort  
+MS|Which of these are search algorithms?|linear search|binary search|DFS|BFS|linear search, binary search, DFS, BFS  
+MS|Which of these are programming paradigms?|procedural|object-oriented|functional|logic|procedural, object-oriented, functional, logic  
+MS|Which of these are scalar quantities in mechanics?|mass|temperature|energy|speed|mass, temperature, energy, speed  
+MS|Which of these are vector quantities in mechanics?|displacement|velocity|acceleration|force|displacement, velocity, acceleration, force  
+MS|Which of these are types of computer memory?|RAM|ROM|Cache|Register|RAM, ROM, Cache, Register  
+MS|Which of these are Python collection methods?|append|pop|remove|clear|append, pop, remove, clear  
+MS|Which of these are vector quantities in physics?|velocity|acceleration|force|displacement|velocity, acceleration, force, displacement  
+MS|Which of these are scalar quantities in physics?|mass|speed|temperature|energy|mass, speed, temperature, energy  
+MS|Which of these are Python arithmetic operators?|+|-|*|/|+, -, *, /  
+MS|Which of these are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these are Python built-in collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of these are Python mutable types?|list|dict|set|bytearray|list, dict, set, bytearray  
+MS|Which of these are Python immutable types?|tuple|string|frozenset|bytes|tuple, string, frozenset, bytes  
+MS|Which of these are database management systems?|MySQL|PostgreSQL|Oracle|SQLite|MySQL, PostgreSQL, Oracle, SQLite  
+MS|Which of these are Python exception types?|IndexError|ValueError|TypeError|ZeroDivisionError|IndexError, ValueError, TypeError, ZeroDivisionError  
+MS|Which of these are Python numeric types?|int|float|complex|decimal|int, float, complex, decimal  
+MS|Which of these are Python logical operators?|and|or|not|xor|and, or, not  
+MS|Which of these are types of computer networks?|LAN|WAN|MAN|PAN|LAN, WAN, MAN, PAN  
+MS|Which of these are OOP principles?|inheritance|polymorphism|abstraction|encapsulation|inheritance, polymorphism, abstraction, encapsulation  
+MS|Which of these are Python loop control statements?|break|continue|pass|return|break, continue, pass, return  
+MS|Which of these Python keywords define functions?|def|lambda|async|await|def, lambda, async, await  
+MS|Which of these Python keywords define classes?|class|type|metaclass|object|class, type, metaclass, object  
+MS|Which of these Python sequence types?|list|tuple|str|bytes|list, tuple, str, bytes  
+MS|Which of these Python operators are arithmetic?|+|-|*|/|+, -, *, /  
+MS|Which of these Python operators are comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these Python operators are logical?|and|or|not|xor|and, or, not  
+MS|Which of these are sorting algorithms?|merge sort|quick sort|heap sort|bubble sort|merge sort, quick sort, heap sort, bubble sort  
+MS|Which of these are search algorithms?|linear search|binary search|DFS|BFS|linear search, binary search, DFS, BFS  
+MS|Which of these are Python string methods?|split|join|replace|strip|split, join, replace, strip  
+MS|Which of these are Python list methods?|append|pop|sort|reverse|append, pop, sort, reverse  
+MS|Which of these are Python dictionary methods?|keys|values|get|items|keys, values, get, items  
+MS|Which of these are Python set methods?|add|remove|union|intersection|add, remove, union, intersection  
+MS|Which of these are Python numeric types?|int|float|complex|decimal|int, float, complex, decimal  
+MS|Which of these are Python built-in functions?|len|abs|type|print|len, abs, type, print  
+MS|Which of these Python keywords handle exceptions?|try|except|finally|raise|try, except, finally, raise  
+MS|Which of these are Python collection types?|list|tuple|dict|set|list, tuple, dict, set  
+MS|Which of these are Python immutable types?|tuple|string|frozenset|bytes|tuple, string, frozenset, bytes  
+MS|Which of these are Python mutable types?|list|dict|set|bytearray|list, dict, set, bytearray  
+MS|Which of these Python keywords define asynchronous functions?|async|await|yield|def|async, await  
+MS|Which of these are scalar quantities in physics?|mass|temperature|speed|energy|mass, temperature, speed, energy  
+MS|Which of these are vector quantities in physics?|velocity|acceleration|force|displacement|velocity, acceleration, force, displacement  
+MS|Which of these are Python comparison operators?|==|!=|>|<|==, !=, >, <  
+MS|Which of these Python logical operators?|and|or|not|xor|and, or, not  
+MS|Which of these Python arithmetic operators?|+|-|*|/|+, -, *, /  
